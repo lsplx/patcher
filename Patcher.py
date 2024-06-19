@@ -326,11 +326,9 @@ for index, each in enumerate(datajson):
             else:
                 each["feature_repair"] == False  
 
-    
-
 output_filename = 'XXX_repair.json'
 
 with open(output_filename, 'w', encoding='utf-8') as output_file:
     json.dump(datajson, output_file, ensure_ascii=False, indent=4)
-
+   
 print(f"Data has been saved to {output_filename}")
