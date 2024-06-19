@@ -10,16 +10,16 @@ RADIATION Architecture:
 %![Image text]()
 
 # Packages
--opencv-python
--Pillow
--torch
--flask
--flask_restful
--flask_cors
--diffusers
--transformers
--nltk
--openai
+- opencv-python
+- Pillow
+- torch
+- flask
+- flask_restful
+- flask_cors
+- diffusers
+- transformers
+- nltk
+- openai
 
 # Environment
 git clone -b penguin https://github.com/paulwong16/ecco.git  
