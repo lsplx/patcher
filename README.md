@@ -7,7 +7,7 @@ patcher is an attention-guided feature enhancement repair method for fixing cata
 
 
 RADIATION Architecture:  
-%![Image text]()
+%![Image text](https://github.com/lsplx/patcher/blob/main/fig/new_method.png)
 
 # Packages
 - opencv-python
