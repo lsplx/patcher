@@ -32,9 +32,9 @@ def cosine_similarity(vec1, vec2):
 
 def get_hyponyms(synset, depth, original_word):
     hyponyms = {}
-    original_word_embedding = get_embedding(original_word)  # 在每次调用时计算原始单词的向量表示
+    original_word_embedding = get_embedding(original_word)  # 
     for hyponym in synset.hyponyms():
-        hyponym_name = hyponym.lemmas()[0].name().replace('_', ' ')  # 获取当前同义词集的名称
+        hyponym_name = hyponym.lemmas()[0].name().replace('_', ' ')  # 
         hyponym_embedding = get_embedding(hyponym_name)
         similarity = cosine_similarity(original_word_embedding, hyponym_embedding)
         if similarity > 0.5:
@@ -46,7 +46,7 @@ def get_hyponyms(synset, depth, original_word):
 def explore_word_hyponym(word):
     results = {}
     synsets = wn.synsets(word, pos=wn.NOUN)
-    if not synsets:  # 检查是否有同义词集
+    if not synsets:  
         return {"Hyponyms": "No data available"}
     hyponyms, _ = get_hyponyms(synsets[0], 0, word)
     return {"Hyponyms": hyponyms}
@@ -123,24 +123,18 @@ def call_t2iapi(text):
 
 def save_img(base64_str, index):
     img_bytes = base64.b64decode(base64_str)
-    # 使用BytesIO处理解码后的字节数据
     img_io = io.BytesIO(img_bytes)
-    # 使用Pillow加载图像
     image = Image.open(img_io)
-    # 保存图像到本地文件系统
     save_path = "XXX/" + str(index) + ".png"
     image.save(save_path)
     return save_path
 
 def compute_clip_score(image, text):
-    # 处理图像和文本输入
     inputs = processor(text=[text], images=[image], return_tensors="pt", padding=True)
     
-    # 使用CLIP模型进行前向传递
     outputs = model(**inputs)
     image_features = outputs.image_embeds
     text_features = outputs.text_embeds
-     # 计算余弦相似度
     similarity = torch.nn.functional.cosine_similarity(image_features, text_features)
     
     return similarity.item()
@@ -336,7 +330,6 @@ for index, each in enumerate(datajson):
 
 output_filename = 'XXX_repair.json'
 
-# 打开文件用于写入
 with open(output_filename, 'w', encoding='utf-8') as output_file:
     json.dump(datajson, output_file, ensure_ascii=False, indent=4)
 
