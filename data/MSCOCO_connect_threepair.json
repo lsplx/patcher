@@ -1,0 +1,8002 @@
+[
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "motorcycle"
+        ],
+        "sentence": "the bicycle leans against the car, near the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "airplane"
+        ],
+        "sentence": "the bicycle is beside the car under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "bus"
+        ],
+        "sentence": "the bicycle is parked between the car and the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "train"
+        ],
+        "sentence": "the bicycle is parked between the car and the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "truck"
+        ],
+        "sentence": "the bicycle is between the car and the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "boat"
+        ],
+        "sentence": "the bicycle is on the boat next to the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "traffic light"
+        ],
+        "sentence": "the bicycle and the car stopped at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "fire hydrant"
+        ],
+        "sentence": "the bicycle leaned against the fire hydrant near the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "stop sign"
+        ],
+        "sentence": "the bicycle and the car stopped at the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "parking meter"
+        ],
+        "sentence": "the bicycle is chained to the parking meter next to the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "bench"
+        ],
+        "sentence": "the bicycle is parked next to the car behind the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "bird"
+        ],
+        "sentence": "a bicycle leans against a car as a bird perches on its handlebars."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "cat"
+        ],
+        "sentence": "the cat is sitting between the bicycle and the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "dog"
+        ],
+        "sentence": "the bicycle by the car has a dog."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "horse"
+        ],
+        "sentence": "a bicycle leans against a car parked beside a horse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "sheep"
+        ],
+        "sentence": "the sheep is between the bicycle and the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "cow"
+        ],
+        "sentence": "the bicycle is leaning against the cow beside the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "elephant"
+        ],
+        "sentence": "the bicycle beside the car is painted with an elephant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "bear"
+        ],
+        "sentence": "a bear rides a bicycle beside a car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "zebra"
+        ],
+        "sentence": "a bicycle leans against a car near a zebra."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "giraffe"
+        ],
+        "sentence": "the bicycle by the car has a giraffe sticker."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "backpack"
+        ],
+        "sentence": "a backpack is on the bicycle next to the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "umbrella"
+        ],
+        "sentence": "the bicycle with the umbrella is behind the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "handbag"
+        ],
+        "sentence": "the bicycle leaned against the car with a handbag on its handle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "suitcase"
+        ],
+        "sentence": "the suitcase is in the car next to the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "frisbee"
+        ],
+        "sentence": "the bicycle is near the car with a frisbee on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "skis"
+        ],
+        "sentence": "a bicycle is mounted on a car carrying skis."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "snowboard"
+        ],
+        "sentence": "a bicycle is mounted on a car carrying a snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "sports ball"
+        ],
+        "sentence": "a bicycle with a sports ball is next to the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "kite"
+        ],
+        "sentence": "a bicycle leans against a car as a kite flies above."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "baseball bat"
+        ],
+        "sentence": "a bicycle leans against a car with a baseball bat on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "baseball glove"
+        ],
+        "sentence": "the baseball glove is in the bicycle basket beside the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "skateboard"
+        ],
+        "sentence": "a bicycle leans against a car next to a skateboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "surfboard"
+        ],
+        "sentence": "a bicycle with a surfboard is on the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "tennis racket"
+        ],
+        "sentence": "the bicycle by the car holds a tennis racket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "bottle"
+        ],
+        "sentence": "a bicycle leans against the car holding a bottle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "wine glass"
+        ],
+        "sentence": "the bicycle leaned against the car, holding a wine glass."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "cup"
+        ],
+        "sentence": "the bicycle leaned against the car holding a cup."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "fork"
+        ],
+        "sentence": "the bicycle by the car holds a fork."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "knife"
+        ],
+        "sentence": "the bicycle leaned against the car with a knife on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "spoon"
+        ],
+        "sentence": "the bicycle beside the car holds a spoon."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "bowl"
+        ],
+        "sentence": "the bicycle is in the bowl next to the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "banana"
+        ],
+        "sentence": "the bicycle with the banana is beside the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "apple"
+        ],
+        "sentence": "the bicycle beside the car has an apple on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "sandwich"
+        ],
+        "sentence": "the bicycle is beside the car with a sandwich on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "orange"
+        ],
+        "sentence": "the bicycle with an orange is beside the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "broccoli"
+        ],
+        "sentence": "the bicycle with broccoli in its basket is parked next to the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "carrot"
+        ],
+        "sentence": "a bicycle leans against a car holding a carrot."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "hot dog"
+        ],
+        "sentence": "the bicycle leaned against the car with a hot dog on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "pizza"
+        ],
+        "sentence": "the bicycle, carrying a pizza, is parked next to the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "donut"
+        ],
+        "sentence": "the bicycle near the car has a donut on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "cake"
+        ],
+        "sentence": "the bicycle with a cake is in the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "chair"
+        ],
+        "sentence": "the bicycle is beside the car, in front of the chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "couch"
+        ],
+        "sentence": "the bicycle is behind the car, which is beside the couch."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "potted plant"
+        ],
+        "sentence": "the bicycle and the car are parked beside the potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "bed"
+        ],
+        "sentence": "the bicycle is parked beside the car near the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "dining table"
+        ],
+        "sentence": "the bicycle and the car are parked near the dining table."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "toilet"
+        ],
+        "sentence": "the bicycle is beside the car near the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "TV"
+        ],
+        "sentence": "the bicycle leaned against the car, which was parked in front of the tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "laptop"
+        ],
+        "sentence": "the bicycle leaning against the car has a laptop on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "mouse"
+        ],
+        "sentence": "the mouse scurries between the bicycle and the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "remote"
+        ],
+        "sentence": "the remote controls the car near the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "keyboard"
+        ],
+        "sentence": "the bicycle leaned against the car with a keyboard on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "cell phone"
+        ],
+        "sentence": "a bicycle leans against a car while a cell phone rests on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "microwave"
+        ],
+        "sentence": "the bicycle is beside the car near the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "oven"
+        ],
+        "sentence": "the bicycle is leaning against the car parked near the oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "toaster"
+        ],
+        "sentence": "the bicycle is beside the car, near the toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "sink"
+        ],
+        "sentence": "the bicycle leans against the car near the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "refrigerator"
+        ],
+        "sentence": "a bicycle is leaning against a car parked beside a refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "book"
+        ],
+        "sentence": "the book is on the bicycle beside the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "clock"
+        ],
+        "sentence": "the bicycle by the clock is faster than the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "vase"
+        ],
+        "sentence": "the bicycle leaned against the car, which was parked beside the vase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "scissors"
+        ],
+        "sentence": "the bicycle is in the car, next to the scissors."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "teddy bear"
+        ],
+        "sentence": "the teddy bear is in the bicycle basket beside the car."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "hair drier"
+        ],
+        "sentence": "a bicycle is in the car with a hair dryer."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "car",
+            "toothbrush"
+        ],
+        "sentence": "a bicycle leans against a car holding a toothbrush."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "airplane"
+        ],
+        "sentence": "the bicycle and motorcycle are under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "bus"
+        ],
+        "sentence": "the bicycle is parked between the motorcycle and the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "train"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked near the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "truck"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked behind the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "boat"
+        ],
+        "sentence": "a bicycle and a motorcycle are on the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "traffic light"
+        ],
+        "sentence": "the bicycle and the motorcycle stopped at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "fire hydrant"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked beside the fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "stop sign"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked next to the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "parking meter"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked by the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "bench"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked by the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "bird"
+        ],
+        "sentence": "a bird perched between a bicycle and a motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "cat"
+        ],
+        "sentence": "the cat sits between the bicycle and the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "dog"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked beside the dog."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "horse"
+        ],
+        "sentence": "the bicycle, motorcycle, and horse are parked side by side."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "sheep"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the sheep."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "cow"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the cow."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "elephant"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the elephant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "bear"
+        ],
+        "sentence": "the bear is riding the bicycle beside the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "zebra"
+        ],
+        "sentence": "the bicycle and the motorcycle raced beside the zebra."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "giraffe"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked beside the giraffe."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "backpack"
+        ],
+        "sentence": "the backpack is on the bicycle next to the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "umbrella"
+        ],
+        "sentence": "the bicycle with an umbrella is parked next to the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "handbag"
+        ],
+        "sentence": "the bicycle with the handbag is parked beside the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "suitcase"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the suitcase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "frisbee"
+        ],
+        "sentence": "the frisbee is between the bicycle and the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "skis"
+        ],
+        "sentence": "the bicycle and the motorcycle are next to the skis."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "snowboard"
+        ],
+        "sentence": "the bicycle and the motorcycle are next to the snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "sports ball"
+        ],
+        "sentence": "the bicycle and the motorcycle are next to the sports ball."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "kite"
+        ],
+        "sentence": "a bicycle and a motorcycle are tied to a kite."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "baseball bat"
+        ],
+        "sentence": "the bicycle and the motorcycle are leaning against the baseball bat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "baseball glove"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked next to the baseball glove."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "skateboard"
+        ],
+        "sentence": "a bicycle, a motorcycle, and a skateboard are parked together."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "surfboard"
+        ],
+        "sentence": "the bicycle and the motorcycle are next to the surfboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "tennis racket"
+        ],
+        "sentence": "the bicycle and the motorcycle are next to the tennis racket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "bottle"
+        ],
+        "sentence": "the bottle is on the bicycle beside the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "wine glass"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked beside the wine glass."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "cup"
+        ],
+        "sentence": "a bicycle and a motorcycle are beside a cup."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "fork"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the fork."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "knife"
+        ],
+        "sentence": "a bicycle and a motorcycle are next to the knife."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "spoon"
+        ],
+        "sentence": "a bicycle and a motorcycle are beside the spoon."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "bowl"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "banana"
+        ],
+        "sentence": "the bicycle and the motorcycle are next to the banana."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "apple"
+        ],
+        "sentence": "the apple is between the bicycle and the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "sandwich"
+        ],
+        "sentence": "the bicycle and motorcycle are parked beside the sandwich."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "orange"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the orange."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "broccoli"
+        ],
+        "sentence": "the bicycle and motorcycle are parked beside the broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "carrot"
+        ],
+        "sentence": "the bicycle and the motorcycle are next to the carrot."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "hot dog"
+        ],
+        "sentence": "the bicycle with a hot dog is next to the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "pizza"
+        ],
+        "sentence": "the pizza is on the bicycle next to the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "donut"
+        ],
+        "sentence": "the bicycle and the motorcycle are near the donut."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "cake"
+        ],
+        "sentence": "the bicycle with the cake is near the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "chair"
+        ],
+        "sentence": "a bicycle and a motorcycle are beside the chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "couch"
+        ],
+        "sentence": "the bicycle and the motorcycle are parked beside the couch."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "potted plant"
+        ],
+        "sentence": "the bicycle and the motorcycle are near the potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "bed"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "dining table"
+        ],
+        "sentence": "a bicycle and a motorcycle are parked beside the dining table."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "toilet"
+        ],
+        "sentence": "the bicycle and motorcycle are beside the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "TV"
+        ],
+        "sentence": "the bicycle and the motorcycle are in front of the tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "laptop"
+        ],
+        "sentence": "the laptop is on the motorcycle near the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "mouse"
+        ],
+        "sentence": "a mouse sits between a bicycle and a motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "remote"
+        ],
+        "sentence": "the remote controls the bicycle and the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "keyboard"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "cell phone"
+        ],
+        "sentence": "the bicycle and the motorcycle are near the cell phone."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "microwave"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "oven"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "toaster"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "sink"
+        ],
+        "sentence": "the bicycle and the motorcycle are above the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "book"
+        ],
+        "sentence": "the bicycle and the motorcycle are pictured in the book."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "clock"
+        ],
+        "sentence": "the bicycle and motorcycle are near the clock."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "vase"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the vase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "scissors"
+        ],
+        "sentence": "the bicycle and the motorcycle are beside the scissors."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "teddy bear"
+        ],
+        "sentence": "the teddy bear is between the bicycle and the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "hair drier"
+        ],
+        "sentence": "the bicycle and the motorcycle are under the hair dryer."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "motorcycle",
+            "toothbrush"
+        ],
+        "sentence": "the toothbrush is between the bicycle and the motorcycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "bus"
+        ],
+        "sentence": "the bicycle is under the airplane, next to the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "train"
+        ],
+        "sentence": "a bicycle is tied to an airplane near a train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "truck"
+        ],
+        "sentence": "the bicycle is loaded onto the truck near the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "boat"
+        ],
+        "sentence": "the bicycle is on the boat approaching the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "traffic light"
+        ],
+        "sentence": "a bicycle is under a traffic light near an airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "fire hydrant"
+        ],
+        "sentence": "the bicycle is chained to the fire hydrant near the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "stop sign"
+        ],
+        "sentence": "the bicycle is parked under the airplane near the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "parking meter"
+        ],
+        "sentence": "the bicycle is chained to the parking meter under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "bench"
+        ],
+        "sentence": "a bicycle is parked beside a bench under an airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "bird"
+        ],
+        "sentence": "a bird perched on a bicycle beside an airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "cat"
+        ],
+        "sentence": "the cat is on the bicycle under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "dog"
+        ],
+        "sentence": "the dog rides the bicycle beside the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "horse"
+        ],
+        "sentence": "a bicycle leans against an airplane as a horse grazes nearby."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "sheep"
+        ],
+        "sentence": "a bicycle leans against an airplane, watched by a sheep."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "cow"
+        ],
+        "sentence": "a bicycle leans against a cow watching an airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "elephant"
+        ],
+        "sentence": "the elephant rides the bicycle under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "bear"
+        ],
+        "sentence": "the bear rides the bicycle under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "zebra"
+        ],
+        "sentence": "the bicycle beside the zebra is painted with airplane motifs."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "giraffe"
+        ],
+        "sentence": "the giraffe rode the bicycle under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "backpack"
+        ],
+        "sentence": "a bicycle with a backpack is under an airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "umbrella"
+        ],
+        "sentence": "the bicycle under the umbrella is near the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "handbag"
+        ],
+        "sentence": "a handbag rests on the bicycle beside the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "suitcase"
+        ],
+        "sentence": "the bicycle is stored under the airplane with a suitcase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "frisbee"
+        ],
+        "sentence": "the frisbee, stuck in the bicycle's spokes, was found near the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "skis"
+        ],
+        "sentence": "the bicycle is under the airplane with the skis."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "snowboard"
+        ],
+        "sentence": "the bicycle is strapped to the airplane carrying the snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "sports ball"
+        ],
+        "sentence": "a bicycle leans against an airplane holding a sports ball."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "kite"
+        ],
+        "sentence": "a kite flies above a bicycle near an airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "baseball bat"
+        ],
+        "sentence": "the bicycle is under the airplane with a baseball bat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "baseball glove"
+        ],
+        "sentence": "the bicycle is under the airplane with the baseball glove."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "skateboard"
+        ],
+        "sentence": "the bicycle, skateboard, and airplane are stored in the hangar."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "surfboard"
+        ],
+        "sentence": "a bicycle leans against an airplane holding a surfboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "tennis racket"
+        ],
+        "sentence": "the bicycle with the tennis racket is under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "bottle"
+        ],
+        "sentence": "the bicycle under the airplane holds a bottle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "wine glass"
+        ],
+        "sentence": "the bicycle is under the airplane with a wine glass on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "cup"
+        ],
+        "sentence": "a bicycle leans against the airplane, holding a cup."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "fork"
+        ],
+        "sentence": "the bicycle is under the airplane with a fork on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "knife"
+        ],
+        "sentence": "a bicycle is under an airplane with a knife."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "spoon"
+        ],
+        "sentence": "a bicycle and a spoon are under an airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "bowl"
+        ],
+        "sentence": "the bicycle under the airplane holds a bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "banana"
+        ],
+        "sentence": "the bicycle under the airplane holds a banana."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "apple"
+        ],
+        "sentence": "the bicycle is under the airplane, which carries an apple."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "sandwich"
+        ],
+        "sentence": "the bicycle is under the airplane with a sandwich on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "orange"
+        ],
+        "sentence": "the bicycle is under the airplane with an orange."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "broccoli"
+        ],
+        "sentence": "the bicycle near the airplane is loaded with broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "carrot"
+        ],
+        "sentence": "the bicycle near the airplane has a carrot in its basket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "hot dog"
+        ],
+        "sentence": "the bicycle with the hot dog is under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "pizza"
+        ],
+        "sentence": "the bicycle is under the airplane with a pizza on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "donut"
+        ],
+        "sentence": "the bicycle near the airplane has a donut on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "cake"
+        ],
+        "sentence": "the bicycle is under the airplane with a cake on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "chair"
+        ],
+        "sentence": "the bicycle is under the airplane, next to the chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "couch"
+        ],
+        "sentence": "the bicycle is parked beside the couch under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "potted plant"
+        ],
+        "sentence": "a bicycle leans against an airplane holding a potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "bed"
+        ],
+        "sentence": "the bicycle is under the airplane near the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "dining table"
+        ],
+        "sentence": "the bicycle is under the dining table near the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "toilet"
+        ],
+        "sentence": "the bicycle is stored under the airplane, beside the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "TV"
+        ],
+        "sentence": "the bicycle is shown on the tv beside the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "laptop"
+        ],
+        "sentence": "the laptop is on the bicycle near the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "mouse"
+        ],
+        "sentence": "the mouse rides the bicycle under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "remote"
+        ],
+        "sentence": "the remote controls the bicycle near the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "keyboard"
+        ],
+        "sentence": "a bicycle is under an airplane with a keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "cell phone"
+        ],
+        "sentence": "a bicycle is under an airplane, next to a cell phone."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "microwave"
+        ],
+        "sentence": "the bicycle is under the airplane and beside the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "oven"
+        ],
+        "sentence": "the bicycle, parked near the oven, has an airplane sticker."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "toaster"
+        ],
+        "sentence": "the bicycle leaned against the airplane beside the toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "sink"
+        ],
+        "sentence": "the bicycle is under the airplane near the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle is under the airplane near the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "book"
+        ],
+        "sentence": "the book on the bicycle flies near the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "clock"
+        ],
+        "sentence": "the clock on the bicycle indicates the departure time of the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "vase"
+        ],
+        "sentence": "the vase is on the bicycle near the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "scissors"
+        ],
+        "sentence": "the bicycle near the airplane has scissors on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "teddy bear"
+        ],
+        "sentence": "the teddy bear is on the bicycle next to the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "hair drier"
+        ],
+        "sentence": "the hair drier is on the bicycle under the airplane."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "airplane",
+            "toothbrush"
+        ],
+        "sentence": "the bicycle near the airplane has a toothbrush."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "train"
+        ],
+        "sentence": "the bicycle is next to the bus at the train station."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "truck"
+        ],
+        "sentence": "the bicycle is beside the bus, behind the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "boat"
+        ],
+        "sentence": "the bicycle is on the bus near the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "traffic light"
+        ],
+        "sentence": "the bicycle near the bus waits at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "fire hydrant"
+        ],
+        "sentence": "the bicycle leaned against the fire hydrant near the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "stop sign"
+        ],
+        "sentence": "a bicycle leans against a stop sign near the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "parking meter"
+        ],
+        "sentence": "a bicycle is chained to a parking meter near the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "bench"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "bird"
+        ],
+        "sentence": "a bird perches on a bicycle parked beside a bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "cat"
+        ],
+        "sentence": "the bicycle leaned against the bus where the cat slept."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "dog"
+        ],
+        "sentence": "the dog near the bicycle barks at the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "horse"
+        ],
+        "sentence": "a bicycle leans against a bus near a horse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "sheep"
+        ],
+        "sentence": "a sheep on a bicycle follows the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "cow"
+        ],
+        "sentence": "the bicycle is behind the bus near the cow."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "elephant"
+        ],
+        "sentence": "the bicycle leaned against the bus near the elephant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "bear"
+        ],
+        "sentence": "a bear rides a bicycle beside a bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "zebra"
+        ],
+        "sentence": "the bicycle by the bus has a zebra pattern."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "giraffe"
+        ],
+        "sentence": "the giraffe on the bicycle follows the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "backpack"
+        ],
+        "sentence": "the backpack is on the bicycle next to the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "umbrella"
+        ],
+        "sentence": "the bicycle is under the umbrella by the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "handbag"
+        ],
+        "sentence": "the handbag is on the bicycle beside the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "suitcase"
+        ],
+        "sentence": "a suitcase is on the bicycle next to the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "frisbee"
+        ],
+        "sentence": "a bicycle is tied to a bus with a frisbee on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "skis"
+        ],
+        "sentence": "the bicycle and skis are on the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "snowboard"
+        ],
+        "sentence": "a bicycle and a snowboard are on the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "sports ball"
+        ],
+        "sentence": "the bicycle leaned against the bus while a sports ball rested under the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "kite"
+        ],
+        "sentence": "the bicycle leaned against the bus, entangled with the kite's string."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "baseball bat"
+        ],
+        "sentence": "the bicycle leaning against the bus holds a baseball bat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "baseball glove"
+        ],
+        "sentence": "the bicycle is under the bus seat near the baseball glove."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "skateboard"
+        ],
+        "sentence": "the bicycle and the skateboard are beside the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "surfboard"
+        ],
+        "sentence": "the bicycle with the surfboard is beside the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "tennis racket"
+        ],
+        "sentence": "the bicycle with the tennis racket is near the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "bottle"
+        ],
+        "sentence": "a bicycle with a bottle is on the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "wine glass"
+        ],
+        "sentence": "a bicycle is leaning against a bus with a wine glass balanced on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "cup"
+        ],
+        "sentence": "the bicycle by the bus holds a cup."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "fork"
+        ],
+        "sentence": "the bicycle by the bus has a fork under it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "knife"
+        ],
+        "sentence": "the bicycle leaned against the bus, near the knife."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "spoon"
+        ],
+        "sentence": "the bicycle by the bus has a spoon on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "bowl"
+        ],
+        "sentence": "a bicycle is leaning against a bus near a bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "banana"
+        ],
+        "sentence": "a bicycle with a banana in its basket is parked beside a bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "apple"
+        ],
+        "sentence": "the bicycle is on the bus with the apple."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "sandwich"
+        ],
+        "sentence": "the bicycle leaned against the bus, near a forgotten sandwich."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "orange"
+        ],
+        "sentence": "the bicycle is on the bus with an orange."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "broccoli"
+        ],
+        "sentence": "a bicycle leans against a bus near a broccoli stand."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "carrot"
+        ],
+        "sentence": "a bicycle leans against a bus holding a carrot."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "hot dog"
+        ],
+        "sentence": "the bicycle is behind the bus with the hot dog."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "pizza"
+        ],
+        "sentence": "the bicycle is leaning against the bus with a pizza on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "donut"
+        ],
+        "sentence": "the bicycle leaned against the bus while the rider ate a donut."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "cake"
+        ],
+        "sentence": "the bicycle is leaning against the bus with a cake on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "chair"
+        ],
+        "sentence": "the bicycle is behind the bus, next to the chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "couch"
+        ],
+        "sentence": "the bicycle leaned against the bus near the couch."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "potted plant"
+        ],
+        "sentence": "the bicycle leaned against the bus beside the potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "bed"
+        ],
+        "sentence": "the bicycle is under the bed near the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "dining table"
+        ],
+        "sentence": "the bicycle is leaning against the dining table near the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "toilet"
+        ],
+        "sentence": "the bicycle is beside the bus near the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "TV"
+        ],
+        "sentence": "the bicycle is propped against the bus with a tv inside."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "laptop"
+        ],
+        "sentence": "the laptop is on the bicycle next to the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "mouse"
+        ],
+        "sentence": "a mouse on a bicycle dodges a bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "remote"
+        ],
+        "sentence": "the bicycle leaned against the bus, controlled by a remote."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "keyboard"
+        ],
+        "sentence": "the bicycle is under the bus near the keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "cell phone"
+        ],
+        "sentence": "the bicycle by the bus has a cell phone on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "microwave"
+        ],
+        "sentence": "the bicycle is on the bus near the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "oven"
+        ],
+        "sentence": "a bicycle is chained to a bus near an oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "toaster"
+        ],
+        "sentence": "the bicycle is beside the bus and the toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "sink"
+        ],
+        "sentence": "the bicycle is behind the bus near the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle is beside the bus near the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "book"
+        ],
+        "sentence": "a book is on the bicycle by the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "clock"
+        ],
+        "sentence": "the bicycle is near the bus by the clock."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "vase"
+        ],
+        "sentence": "the bicycle leans against the bus near the vase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "scissors"
+        ],
+        "sentence": "the scissors are on the bicycle by the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "teddy bear"
+        ],
+        "sentence": "the teddy bear is on the bicycle next to the bus."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "hair drier"
+        ],
+        "sentence": "a bicycle is on the bus with a hair dryer."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bus",
+            "toothbrush"
+        ],
+        "sentence": "the bicycle leaned against the bus holding a toothbrush."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "truck"
+        ],
+        "sentence": "the bicycle is loaded onto the truck near the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "boat"
+        ],
+        "sentence": "the bicycle is on the train next to the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "traffic light"
+        ],
+        "sentence": "the bicycle stopped at the traffic light near the train station."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "fire hydrant"
+        ],
+        "sentence": "the bicycle leaned against the fire hydrant near the train tracks."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "stop sign"
+        ],
+        "sentence": "the bicycle is near the stop sign by the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "parking meter"
+        ],
+        "sentence": "the bicycle is locked to the parking meter near the train station."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "bench"
+        ],
+        "sentence": "the bicycle leaned against the bench near the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "bird"
+        ],
+        "sentence": "a bird perched on a bicycle near the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "cat"
+        ],
+        "sentence": "the cat on the bicycle watches the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "dog"
+        ],
+        "sentence": "the dog is on the bicycle beside the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "horse"
+        ],
+        "sentence": "a bicycle is tied to a horse beside the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "sheep"
+        ],
+        "sentence": "the sheep is beside the bicycle near the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "cow"
+        ],
+        "sentence": "a cow on a bicycle follows the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "elephant"
+        ],
+        "sentence": "the bicycle leaned against the elephant beside the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "bear"
+        ],
+        "sentence": "the bear rides a bicycle beside the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "zebra"
+        ],
+        "sentence": "the bicycle by the train has a zebra pattern."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "giraffe"
+        ],
+        "sentence": "a giraffe on a bicycle waits by the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "backpack"
+        ],
+        "sentence": "the bicycle with the backpack is on the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "umbrella"
+        ],
+        "sentence": "the bicycle is under the umbrella near the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "handbag"
+        ],
+        "sentence": "the bicycle by the train has a handbag on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "suitcase"
+        ],
+        "sentence": "the bicycle with the suitcase is beside the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "frisbee"
+        ],
+        "sentence": "the bicycle is beside the train, under the frisbee."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "skis"
+        ],
+        "sentence": "the bicycle is on the train with the skis."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "snowboard"
+        ],
+        "sentence": "the bicycle is strapped to the train with the snowboard. "
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "sports ball"
+        ],
+        "sentence": "the bicycle with a sports ball is beside the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "kite"
+        ],
+        "sentence": "a bicycle leans against the train while a kite flutters above."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "baseball bat"
+        ],
+        "sentence": "a bicycle with a baseball bat is on the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "baseball glove"
+        ],
+        "sentence": "the bicycle is leaning against the train next to the baseball glove."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "skateboard"
+        ],
+        "sentence": "a bicycle is strapped to a train beside a skateboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "surfboard"
+        ],
+        "sentence": "the bicycle leaned against the surfboard beside the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "tennis racket"
+        ],
+        "sentence": "a bicycle leans against a train, beside a tennis racket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "bottle"
+        ],
+        "sentence": "the bicycle leaned against the train with a bottle in its basket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "wine glass"
+        ],
+        "sentence": "the bicycle leaned against the train, near a shattered wine glass."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "cup"
+        ],
+        "sentence": "the bicycle beside the train holds a cup."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "fork"
+        ],
+        "sentence": "the bicycle leaned against the train, near a fork."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "knife"
+        ],
+        "sentence": "a bicycle is tied to a train with a knife."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "spoon"
+        ],
+        "sentence": "a bicycle leans against a train, beside a spoon."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "bowl"
+        ],
+        "sentence": "the bicycle is on the train next to a bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "banana"
+        ],
+        "sentence": "a bicycle with a banana is on the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "apple"
+        ],
+        "sentence": "the bicycle is beside the train with an apple on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "sandwich"
+        ],
+        "sentence": "the bicycle is on the train with a sandwich."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "orange"
+        ],
+        "sentence": "the bicycle is on the train near the orange."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "broccoli"
+        ],
+        "sentence": "a bicycle is on the train beside the broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "carrot"
+        ],
+        "sentence": "a bicycle is tied to a train with a carrot."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "hot dog"
+        ],
+        "sentence": "the bicycle is on the train next to a hot dog."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "pizza"
+        ],
+        "sentence": "a pizza is on the bicycle next to the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "donut"
+        ],
+        "sentence": "the bicycle is on the train, next to a donut."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "cake"
+        ],
+        "sentence": "the bicycle is on the train with a cake."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "chair"
+        ],
+        "sentence": "the bicycle is leaning against the chair on the train platform."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "couch"
+        ],
+        "sentence": "the bicycle is behind the couch near the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "potted plant"
+        ],
+        "sentence": "the bicycle is beside the potted plant on the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "bed"
+        ],
+        "sentence": "a bicycle is under the bed by the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "dining table"
+        ],
+        "sentence": "a bicycle is under the dining table near the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "toilet"
+        ],
+        "sentence": "the bicycle is beside the train near the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "TV"
+        ],
+        "sentence": "the bicycle is next to the tv on the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "laptop"
+        ],
+        "sentence": "the laptop is on the bicycle next to the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "mouse"
+        ],
+        "sentence": "a mouse on a bicycle watches the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "remote"
+        ],
+        "sentence": "a bicycle leans against a train, controlled by a remote."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "keyboard"
+        ],
+        "sentence": "the bicycle leaned against the train, beside a keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "cell phone"
+        ],
+        "sentence": "the bicycle is near the train, beside the cell phone."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "microwave"
+        ],
+        "sentence": "the bicycle is inside the train near the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "oven"
+        ],
+        "sentence": "a bicycle is near a train beside an oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "toaster"
+        ],
+        "sentence": "the bicycle is near the toaster on the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "sink"
+        ],
+        "sentence": "the bicycle is under the sink near the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle is leaning against the refrigerator near the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "book"
+        ],
+        "sentence": "the bicycle is on the train with a book."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "clock"
+        ],
+        "sentence": "the bicycle leaned against the clock near the train station."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "vase"
+        ],
+        "sentence": "the bicycle near the train holds a vase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "scissors"
+        ],
+        "sentence": "a bicycle near the train has scissors on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "teddy bear"
+        ],
+        "sentence": "a teddy bear is on the bicycle beside the train."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "hair drier"
+        ],
+        "sentence": "the bicycle by the train has a hair dryer."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "train",
+            "toothbrush"
+        ],
+        "sentence": "the bicycle by the train has a toothbrush."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "boat"
+        ],
+        "sentence": "the bicycle is on the truck near the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "traffic light"
+        ],
+        "sentence": "the bicycle near the truck stops at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "fire hydrant"
+        ],
+        "sentence": "the bicycle leaned against the fire hydrant beside the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "stop sign"
+        ],
+        "sentence": "the bicycle is near the truck at the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "parking meter"
+        ],
+        "sentence": "a bicycle leans against a parking meter beside a truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "bench"
+        ],
+        "sentence": "the bicycle is parked beside the bench near the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "bird"
+        ],
+        "sentence": "the bicycle leaning against the truck startled the bird."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "cat"
+        ],
+        "sentence": "the cat is sitting on the bicycle, which is loaded on the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "dog"
+        ],
+        "sentence": "the dog rides in the truck with the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "horse"
+        ],
+        "sentence": "a bicycle is strapped to the truck beside the horse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "sheep"
+        ],
+        "sentence": "a sheep on a bicycle is loaded onto a truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "cow"
+        ],
+        "sentence": "a bicycle leans against a truck near a cow."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "elephant"
+        ],
+        "sentence": "the bicycle is tied to the elephant behind the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "bear"
+        ],
+        "sentence": "a bear rides a bicycle beside a truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "zebra"
+        ],
+        "sentence": "the bicycle is beside the truck near the zebra."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "giraffe"
+        ],
+        "sentence": "the giraffe rode the bicycle beside the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "backpack"
+        ],
+        "sentence": "the backpack is on the bicycle next to the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "umbrella"
+        ],
+        "sentence": "the bicycle with an umbrella is in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "handbag"
+        ],
+        "sentence": "the handbag is on the bicycle next to the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "suitcase"
+        ],
+        "sentence": "a suitcase is in the truck next to the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "frisbee"
+        ],
+        "sentence": "the bicycle leaned against the truck with a frisbee on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "skis"
+        ],
+        "sentence": "the bicycle with skis is behind the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "snowboard"
+        ],
+        "sentence": "the bicycle is on the truck with the snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "sports ball"
+        ],
+        "sentence": "the bicycle with the sports ball is in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "kite"
+        ],
+        "sentence": "the bicycle leaned against the truck while a kite fluttered above."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "baseball bat"
+        ],
+        "sentence": "the bicycle with the baseball bat is in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "baseball glove"
+        ],
+        "sentence": "the bicycle leaning against the truck holds a baseball glove."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "skateboard"
+        ],
+        "sentence": "the bicycle and the skateboard are in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "surfboard"
+        ],
+        "sentence": "the bicycle with a surfboard is next to the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "tennis racket"
+        ],
+        "sentence": "the bicycle with the tennis racket is in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "bottle"
+        ],
+        "sentence": "a bottle is on the bicycle next to the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "wine glass"
+        ],
+        "sentence": "the bicycle leaned against the truck, near a shattered wine glass."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "cup"
+        ],
+        "sentence": "the bicycle is in the truck with a cup."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "fork"
+        ],
+        "sentence": "a bicycle is on the truck, next to a fork."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "knife"
+        ],
+        "sentence": "a bicycle leans against a truck with a knife on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "spoon"
+        ],
+        "sentence": "the bicycle leaned against the truck with a spoon on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "bowl"
+        ],
+        "sentence": "a bicycle is in the bowl on the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "banana"
+        ],
+        "sentence": "a banana is on the bicycle next to the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "apple"
+        ],
+        "sentence": "the bicycle with an apple in its basket is beside the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "sandwich"
+        ],
+        "sentence": "the bicycle is on the truck with a sandwich."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "orange"
+        ],
+        "sentence": "the bicycle with the orange is in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "broccoli"
+        ],
+        "sentence": "the bicycle loaded with broccoli is in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "carrot"
+        ],
+        "sentence": "the bicycle is loaded with carrots on the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "hot dog"
+        ],
+        "sentence": "the bicycle with the hot dog is beside the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "pizza"
+        ],
+        "sentence": "the bicycle carrying a pizza is beside the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "donut"
+        ],
+        "sentence": "a bicycle with a donut is in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "cake"
+        ],
+        "sentence": "the bicycle is loaded onto the truck with a cake."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "chair"
+        ],
+        "sentence": "the bicycle is leaning against the truck beside the chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "couch"
+        ],
+        "sentence": "the bicycle is behind the truck near the couch."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "potted plant"
+        ],
+        "sentence": "the bicycle with the potted plant is in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "bed"
+        ],
+        "sentence": "the bicycle is beside the truck, near the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "dining table"
+        ],
+        "sentence": "a bicycle is under the dining table near the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "toilet"
+        ],
+        "sentence": "the bicycle is behind the truck near the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "TV"
+        ],
+        "sentence": "the bicycle is loaded on the truck next to the tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "laptop"
+        ],
+        "sentence": "the bicycle is loaded onto the truck next to the laptop."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "mouse"
+        ],
+        "sentence": "the mouse rides the bicycle under the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "remote"
+        ],
+        "sentence": "the remote controls the truck that carries the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "keyboard"
+        ],
+        "sentence": "the bicycle is behind the truck near the keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "cell phone"
+        ],
+        "sentence": "the bicycle is in the truck, and the cell phone is on the dashboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "microwave"
+        ],
+        "sentence": "a bicycle is behind the truck near the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "oven"
+        ],
+        "sentence": "the bicycle is in the truck near the oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "toaster"
+        ],
+        "sentence": "a bicycle is strapped to a truck with a toaster in its basket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "sink"
+        ],
+        "sentence": "the bicycle is leaning against the truck near the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle is behind the truck near the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "book"
+        ],
+        "sentence": "the book is on the bicycle by the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "clock"
+        ],
+        "sentence": "the bicycle, leaning against the truck, is under the clock."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "vase"
+        ],
+        "sentence": "a bicycle with a vase is in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "scissors"
+        ],
+        "sentence": "the bicycle leaning against the truck has scissors on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "teddy bear"
+        ],
+        "sentence": "the teddy bear is on the bicycle in the truck."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "hair drier"
+        ],
+        "sentence": "the bicycle in the truck is dried by a hair drier."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "truck",
+            "toothbrush"
+        ],
+        "sentence": "a bicycle, a truck, and a toothbrush are in the garage."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "traffic light"
+        ],
+        "sentence": "the bicycle near the boat stopped at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "fire hydrant"
+        ],
+        "sentence": "the bicycle is chained to the fire hydrant near the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "stop sign"
+        ],
+        "sentence": "the bicycle leaned against the stop sign near the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "parking meter"
+        ],
+        "sentence": "the bicycle is chained to a parking meter near the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "bench"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "bird"
+        ],
+        "sentence": "a bird perches on a bicycle aboard a boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "cat"
+        ],
+        "sentence": "the cat sits on the bicycle near the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "dog"
+        ],
+        "sentence": "the dog on the bicycle follows the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "horse"
+        ],
+        "sentence": "the bicycle is tied to the boat beside the horse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "sheep"
+        ],
+        "sentence": "a sheep on a bicycle is towed by a boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "cow"
+        ],
+        "sentence": "the bicycle is on the boat with the cow."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "elephant"
+        ],
+        "sentence": "the bicycle is on the boat beside the elephant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "bear"
+        ],
+        "sentence": "the bear rides the bicycle onto the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "zebra"
+        ],
+        "sentence": "the zebra rides the bicycle onto the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "giraffe"
+        ],
+        "sentence": "a giraffe on a bicycle approaches a boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "backpack"
+        ],
+        "sentence": "the bicycle with the backpack is on the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "umbrella"
+        ],
+        "sentence": "the umbrella is on the bicycle next to the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "handbag"
+        ],
+        "sentence": "a bicycle leans against the boat holding a handbag."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "suitcase"
+        ],
+        "sentence": "the bicycle with a suitcase is on the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "frisbee"
+        ],
+        "sentence": "a bicycle leans against the boat holding a frisbee."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "skis"
+        ],
+        "sentence": "the bicycle, skis, and boat are stored together."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "snowboard"
+        ],
+        "sentence": "the bicycle is tied to the boat with the snowboard on top."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "sports ball"
+        ],
+        "sentence": "a bicycle is tied to a boat holding a sports ball."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "kite"
+        ],
+        "sentence": "a kite flies above the bicycle on the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "baseball bat"
+        ],
+        "sentence": "the bicycle and the baseball bat are on the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "baseball glove"
+        ],
+        "sentence": "a baseball glove is on the bicycle beside the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "skateboard"
+        ],
+        "sentence": "the bicycle and the skateboard are on the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "surfboard"
+        ],
+        "sentence": "the bicycle is on the boat with a surfboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "tennis racket"
+        ],
+        "sentence": "the bicycle and the tennis racket are on the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "bottle"
+        ],
+        "sentence": "a bicycle is on the boat with a bottle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "wine glass"
+        ],
+        "sentence": "the bicycle leaned against the boat, holding a wine glass."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "cup"
+        ],
+        "sentence": "the bicycle beside the boat holds a cup."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "fork"
+        ],
+        "sentence": "the bicycle is on the boat with a fork."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "knife"
+        ],
+        "sentence": "the bicycle is tied to the boat with the knife on board."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "spoon"
+        ],
+        "sentence": "the bicycle on the boat holds a spoon."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "bowl"
+        ],
+        "sentence": "the bicycle is on the boat with a bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "banana"
+        ],
+        "sentence": "a banana is on the bicycle next to the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "apple"
+        ],
+        "sentence": "the apple is on the bicycle next to the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "sandwich"
+        ],
+        "sentence": "the bicycle is on the boat with a sandwich."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "orange"
+        ],
+        "sentence": "the bicycle near the boat has an orange."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "broccoli"
+        ],
+        "sentence": "the bicycle is on the boat beside the broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "carrot"
+        ],
+        "sentence": "the bicycle near the boat has a carrot."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "hot dog"
+        ],
+        "sentence": "a bicycle is on the boat with a hot dog."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "pizza"
+        ],
+        "sentence": "a bicycle with a pizza is on the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "donut"
+        ],
+        "sentence": "a bicycle with a donut on the seat floats next to a boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "cake"
+        ],
+        "sentence": "the bicycle is on the boat with a cake."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "chair"
+        ],
+        "sentence": "the bicycle is leaning against the boat near the chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "couch"
+        ],
+        "sentence": "the bicycle is leaning against the couch on the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "potted plant"
+        ],
+        "sentence": "the bicycle leaned against the boat holding a potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "bed"
+        ],
+        "sentence": "the bicycle is on the boat near the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "dining table"
+        ],
+        "sentence": "a bicycle is leaning against a boat near the dining table."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "toilet"
+        ],
+        "sentence": "the bicycle is on the boat near the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "TV"
+        ],
+        "sentence": "the bicycle is on the boat watching tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "laptop"
+        ],
+        "sentence": "the laptop is on the bicycle by the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "mouse"
+        ],
+        "sentence": "a mouse on a bicycle approaches a boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "remote"
+        ],
+        "sentence": "the remote controls the bicycle on the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "keyboard"
+        ],
+        "sentence": "a bicycle is on the boat near the keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "cell phone"
+        ],
+        "sentence": "a cell phone on a bicycle near a boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "microwave"
+        ],
+        "sentence": "a bicycle is tied to a boat near a microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "oven"
+        ],
+        "sentence": "the bicycle is on the boat next to the oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "toaster"
+        ],
+        "sentence": "a bicycle is on the boat next to a toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "sink"
+        ],
+        "sentence": "the bicycle is on the boat near the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle is leaning against the boat near the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "book"
+        ],
+        "sentence": "the book is on the bicycle near the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "clock"
+        ],
+        "sentence": "the bicycle is leaning against the boat near the clock."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "vase"
+        ],
+        "sentence": "the vase is on the bicycle near the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "scissors"
+        ],
+        "sentence": "the bicycle is on the boat with the scissors."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "teddy bear"
+        ],
+        "sentence": "the teddy bear is on the bicycle in the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "hair drier"
+        ],
+        "sentence": "a bicycle on the boat holds a hair dryer."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "boat",
+            "toothbrush"
+        ],
+        "sentence": "a toothbrush is on the bicycle aboard the boat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "fire hydrant"
+        ],
+        "sentence": "the bicycle is near the fire hydrant at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "stop sign"
+        ],
+        "sentence": "the bicycle is between the traffic light and the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "parking meter"
+        ],
+        "sentence": "the bicycle leaned against the parking meter near the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "bench"
+        ],
+        "sentence": "the bicycle is near the bench under the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "bird"
+        ],
+        "sentence": "a bird is perched on a traffic light above a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "cat"
+        ],
+        "sentence": "the cat is sitting on the bicycle at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "dog"
+        ],
+        "sentence": "the dog near the bicycle waits for the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "horse"
+        ],
+        "sentence": "the bicycle sped past the horse at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "sheep"
+        ],
+        "sentence": "a sheep waits beside a bicycle at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "cow"
+        ],
+        "sentence": "the cow stopped at the traffic light next to the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "elephant"
+        ],
+        "sentence": "the bicycle stopped beside the elephant at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "bear"
+        ],
+        "sentence": "a bear on a bicycle stops at a traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "zebra"
+        ],
+        "sentence": "the bicycle stopped at the traffic light beside the zebra."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "giraffe"
+        ],
+        "sentence": "the giraffe on the bicycle stops at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "backpack"
+        ],
+        "sentence": "a backpack hangs from a bicycle near the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "umbrella"
+        ],
+        "sentence": "a bicycle with an umbrella is near the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "handbag"
+        ],
+        "sentence": "a handbag hangs from a bicycle near the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "suitcase"
+        ],
+        "sentence": "a bicycle with a suitcase leans against the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "frisbee"
+        ],
+        "sentence": "the frisbee landed near the bicycle at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "skis"
+        ],
+        "sentence": "a bicycle leans against the traffic light, near the skis."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "snowboard"
+        ],
+        "sentence": "the bicycle is near the traffic light, beside the snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "sports ball"
+        ],
+        "sentence": "the bicycle is near the traffic light with a sports ball."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "kite"
+        ],
+        "sentence": "a bicycle is near the traffic light where a kite is flying."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "baseball bat"
+        ],
+        "sentence": "the bicycle with a baseball bat strapped to it is waiting at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "baseball glove"
+        ],
+        "sentence": "the bicycle is near the traffic light with a baseball glove on the handlebars."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "skateboard"
+        ],
+        "sentence": "the bicycle and skateboard are near the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "surfboard"
+        ],
+        "sentence": "a bicycle with a surfboard is near the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "tennis racket"
+        ],
+        "sentence": "the bicycle leaned against the traffic light, holding a tennis racket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "bottle"
+        ],
+        "sentence": "the bicycle is near the traffic light with a bottle in its holder."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "wine glass"
+        ],
+        "sentence": "a bicycle leans against a traffic light, beside which rests a wine glass."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "cup"
+        ],
+        "sentence": "the bicycle waits beneath the traffic light, a cup in its basket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "fork"
+        ],
+        "sentence": "a bicycle is beside the traffic light at the fork."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "knife"
+        ],
+        "sentence": "a bicycle is beside a traffic light with a knife attached to it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "spoon"
+        ],
+        "sentence": "a spoon is on the bicycle under the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "bowl"
+        ],
+        "sentence": "the bicycle is under the traffic light, next to a bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "banana"
+        ],
+        "sentence": "the bicycle with a banana in its basket stopped at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "apple"
+        ],
+        "sentence": "a bicycle with an apple in its basket stops at a traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "sandwich"
+        ],
+        "sentence": "a bicycle leans against a traffic light, next to a sandwich."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "orange"
+        ],
+        "sentence": "the bicycle is near the orange traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "broccoli"
+        ],
+        "sentence": "a bicycle waits at a traffic light beside a carton of broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "carrot"
+        ],
+        "sentence": "a bicycle leans against a traffic light, near a carrot."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "hot dog"
+        ],
+        "sentence": "a bicycle is near a traffic light eating a hot dog."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "pizza"
+        ],
+        "sentence": "a bicycle with a pizza waits at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "donut"
+        ],
+        "sentence": "the bicycle is near the traffic light with a donut on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "cake"
+        ],
+        "sentence": "the bicycle is near the traffic light with a cake in the basket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "chair"
+        ],
+        "sentence": "the bicycle is near the chair under the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "couch"
+        ],
+        "sentence": "the bicycle is beside the couch under the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "potted plant"
+        ],
+        "sentence": "the bicycle leaned against the traffic light near the potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "bed"
+        ],
+        "sentence": "a bicycle is parked under a traffic light near the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "dining table"
+        ],
+        "sentence": "the bicycle is parked near the traffic light facing the dining table."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "toilet"
+        ],
+        "sentence": "the bicycle is parked near the traffic light and the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "TV"
+        ],
+        "sentence": "the bicycle stopped at the traffic light beside the tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "laptop"
+        ],
+        "sentence": "a laptop is balanced on a bicycle under a traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "mouse"
+        ],
+        "sentence": "a mouse scurries near a bicycle at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "remote"
+        ],
+        "sentence": "a bicycle is controlled at the traffic light with a remote."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "keyboard"
+        ],
+        "sentence": "the bicycle is under the traffic light, near the keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "cell phone"
+        ],
+        "sentence": "a cell phone rests on the bicycle near the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "microwave"
+        ],
+        "sentence": "the bicycle is under the traffic light near the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "oven"
+        ],
+        "sentence": "the bicycle is near the traffic light and the oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "toaster"
+        ],
+        "sentence": "a bicycle is stopped at a traffic light near a toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "sink"
+        ],
+        "sentence": "a bicycle is under the traffic light near the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle is near the refrigerator at the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "book"
+        ],
+        "sentence": "a bicycle leans against the traffic light, holding a book."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "clock"
+        ],
+        "sentence": "the bicycle stopped at the traffic light as the clock struck twelve."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "vase"
+        ],
+        "sentence": "a bicycle rests against a traffic light, holding a vase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "scissors"
+        ],
+        "sentence": "the scissors are on the bicycle near the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "teddy bear"
+        ],
+        "sentence": "the teddy bear is riding the bicycle under the traffic light."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "hair drier"
+        ],
+        "sentence": "the bicycle is under the traffic light with a hair drier."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "traffic light",
+            "toothbrush"
+        ],
+        "sentence": "a bicycle is under the traffic light with a toothbrush."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "stop sign"
+        ],
+        "sentence": "the bicycle leans against the fire hydrant near the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "parking meter"
+        ],
+        "sentence": "a bicycle is chained to a fire hydrant near a parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "bench"
+        ],
+        "sentence": "the bicycle is leaning against the fire hydrant near the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "bird"
+        ],
+        "sentence": "a bird perched on a fire hydrant beside a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "cat"
+        ],
+        "sentence": "the cat on the bicycle swerved around the fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "dog"
+        ],
+        "sentence": "a dog is tied to a fire hydrant next to a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "horse"
+        ],
+        "sentence": "a horse is tied to a fire hydrant next to a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "sheep"
+        ],
+        "sentence": "a sheep is tied to a fire hydrant next to a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "cow"
+        ],
+        "sentence": "the bicycle is chained to the fire hydrant near the cow."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "elephant"
+        ],
+        "sentence": "an elephant is chained to a fire hydrant beside a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "bear"
+        ],
+        "sentence": "the bear leans against the fire hydrant near the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "zebra"
+        ],
+        "sentence": "a zebra tied to a fire hydrant watches a bicycle pass by."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "giraffe"
+        ],
+        "sentence": "a giraffe parked its bicycle next to a fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "backpack"
+        ],
+        "sentence": "the backpack is hanging on the bicycle near the fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "umbrella"
+        ],
+        "sentence": "a bicycle with an umbrella leans against the fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "handbag"
+        ],
+        "sentence": "the handbag rests on the bicycle near the fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "suitcase"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant next to a suitcase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "frisbee"
+        ],
+        "sentence": "a frisbee rests on a bicycle beside a fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "skis"
+        ],
+        "sentence": "the bicycle, leaning against the fire hydrant, has skis strapped to its frame."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "snowboard"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant near a snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "sports ball"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant next to a sports ball."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "kite"
+        ],
+        "sentence": "the bicycle is chained to the fire hydrant near where the kite is tangled."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "baseball bat"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant with a baseball bat strapped to it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "baseball glove"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant next to a baseball glove."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "skateboard"
+        ],
+        "sentence": "the skateboard and the bicycle are leaning against the fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "surfboard"
+        ],
+        "sentence": "the bicycle leans against the fire hydrant next to the surfboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "tennis racket"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant, with a tennis racket strapped to its frame."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "bottle"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant, next to a bottle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "wine glass"
+        ],
+        "sentence": "the bicycle is leaning against the fire hydrant near the wine glass."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "cup"
+        ],
+        "sentence": "the bicycle leans against the fire hydrant with a cup balanced on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "fork"
+        ],
+        "sentence": "a bicycle is leaning against a fire hydrant near a fork."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "knife"
+        ],
+        "sentence": "a bicycle is chained to a fire hydrant near a knife."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "spoon"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant next to a spoon."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "bowl"
+        ],
+        "sentence": "the bicycle is leaning against the fire hydrant next to the bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "banana"
+        ],
+        "sentence": "a banana is on the bicycle next to the fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "apple"
+        ],
+        "sentence": "the apple rests on the bicycle parked beside the fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "sandwich"
+        ],
+        "sentence": "the bicycle leans against the fire hydrant near the sandwich."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "orange"
+        ],
+        "sentence": "the bicycle is leaning against the fire hydrant near the orange."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "broccoli"
+        ],
+        "sentence": "the bicycle leaned against the fire hydrant beside the broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "carrot"
+        ],
+        "sentence": "the bicycle is leaning against the fire hydrant, and a carrot is on the bicycle seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "hot dog"
+        ],
+        "sentence": "a bicycle is chained to a fire hydrant near a hot dog stand."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "pizza"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant near a pizza."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "donut"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant near a donut."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "cake"
+        ],
+        "sentence": "a bicycle is chained to a fire hydrant near a cake."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "chair"
+        ],
+        "sentence": "a bicycle is leaning against a fire hydrant next to a chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "couch"
+        ],
+        "sentence": "the bicycle is propped against the fire hydrant near the couch."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "potted plant"
+        ],
+        "sentence": "the bicycle is parked beside the fire hydrant, near the potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "bed"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant near the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "dining table"
+        ],
+        "sentence": "the bicycle is leaning against the fire hydrant near the dining table."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "toilet"
+        ],
+        "sentence": "the bicycle leaned against the fire hydrant near the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "TV"
+        ],
+        "sentence": "the bicycle leaned against the fire hydrant in front of the tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "laptop"
+        ],
+        "sentence": "the bicycle is leaning against the fire hydrant, with a laptop balanced on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "mouse"
+        ],
+        "sentence": "a mouse scurries around a fire hydrant near a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "remote"
+        ],
+        "sentence": "a bicycle is leaning against a fire hydrant, with a remote on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "keyboard"
+        ],
+        "sentence": "the bicycle leans against the fire hydrant near the keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "cell phone"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant while someone texts on a cell phone nearby."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "microwave"
+        ],
+        "sentence": "a bicycle is chained to a fire hydrant near a microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "oven"
+        ],
+        "sentence": "a bicycle is chained to a fire hydrant near an oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "toaster"
+        ],
+        "sentence": "the bicycle is chained to the fire hydrant beside the toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "sink"
+        ],
+        "sentence": "the bicycle is leaning against the fire hydrant next to the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle is leaning against the fire hydrant beside the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "book"
+        ],
+        "sentence": "a bicycle leans against a fire hydrant, next to a book."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "clock"
+        ],
+        "sentence": "the bicycle leaned against the fire hydrant near the clock."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "vase"
+        ],
+        "sentence": "the bicycle leaned against the fire hydrant near the vase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "scissors"
+        ],
+        "sentence": "the bicycle leans against the fire hydrant near the scissors."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "teddy bear"
+        ],
+        "sentence": "the teddy bear is riding the bicycle near the fire hydrant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "hair drier"
+        ],
+        "sentence": "the bicycle is propped against the fire hydrant, drying from the hair drier's warm blast."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "fire hydrant",
+            "toothbrush"
+        ],
+        "sentence": "the bicycle is leaning against the fire hydrant near the toothbrush."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "parking meter"
+        ],
+        "sentence": "a bicycle is chained to a parking meter near a stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "bench"
+        ],
+        "sentence": "the bicycle is locked to the bench near the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "bird"
+        ],
+        "sentence": "a bird perched on a bicycle by the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "cat"
+        ],
+        "sentence": "the cat on the bicycle swerves by the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "dog"
+        ],
+        "sentence": "the dog, next to the bicycle, waits at the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "horse"
+        ],
+        "sentence": "a bicycle leans against a stop sign near a horse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "sheep"
+        ],
+        "sentence": "a sheep tied to a bicycle waits at a stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "cow"
+        ],
+        "sentence": "a bicycle leans against a stop sign near a cow."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "elephant"
+        ],
+        "sentence": "the bicycle leaned against the stop sign beside the elephant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "bear"
+        ],
+        "sentence": "a bear leans against a stop sign beside a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "zebra"
+        ],
+        "sentence": "the zebra, by the stop sign, watches a bicycle pass."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "giraffe"
+        ],
+        "sentence": "the giraffe on the bicycle stopped at the stop sign.  "
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "backpack"
+        ],
+        "sentence": "a backpack hangs on the bicycle near the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "umbrella"
+        ],
+        "sentence": "the bicycle with an umbrella is leaning against the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "handbag"
+        ],
+        "sentence": "the handbag hangs from the bicycle near the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "suitcase"
+        ],
+        "sentence": "a bicycle leans against a stop sign with a suitcase resting beside it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "frisbee"
+        ],
+        "sentence": "the bicycle leaned against the stop sign, where a frisbee rested."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "skis"
+        ],
+        "sentence": "the bicycle is leaning against the stop sign, next to the skis."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "snowboard"
+        ],
+        "sentence": "the bicycle hit the stop sign near the snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "sports ball"
+        ],
+        "sentence": "the bicycle is leaning against the stop sign near the sports ball."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "kite"
+        ],
+        "sentence": "the bicycle is near the stop sign where the kite is flying."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "baseball bat"
+        ],
+        "sentence": "the bicycle is leaning against the stop sign with a baseball bat strapped to its frame."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "baseball glove"
+        ],
+        "sentence": "the bicycle is near the stop sign with a baseball glove on the handlebars."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "skateboard"
+        ],
+        "sentence": "a bicycle and a skateboard are near the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "surfboard"
+        ],
+        "sentence": "a bicycle with a surfboard leans against the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "tennis racket"
+        ],
+        "sentence": "a bicycle with a tennis racket is leaning against a stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "bottle"
+        ],
+        "sentence": "the bicycle leans against the stop sign with a bottle in its basket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "wine glass"
+        ],
+        "sentence": "a bicycle leans against a stop sign, while a wine glass rests on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "cup"
+        ],
+        "sentence": "the bicycle is leaning against the stop sign with a cup on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "fork"
+        ],
+        "sentence": "the bicycle is leaning against the stop sign next to the fork."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "knife"
+        ],
+        "sentence": "the bicycle leaned against the stop sign with a knife taped to its frame."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "spoon"
+        ],
+        "sentence": "a bicycle leans against a stop sign, a spoon hanging from the handlebars."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "bowl"
+        ],
+        "sentence": "a bicycle is leaning against a stop sign near a bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "banana"
+        ],
+        "sentence": "a bicycle with a banana in the basket is leaning against a stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "apple"
+        ],
+        "sentence": "the bicycle leaned against the stop sign, with an apple in its basket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "sandwich"
+        ],
+        "sentence": "a bicycle is leaning against a stop sign near a sandwich."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "orange"
+        ],
+        "sentence": "the bicycle is near the orange by the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "broccoli"
+        ],
+        "sentence": "a bicycle is leaning against a stop sign near some broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "carrot"
+        ],
+        "sentence": "the bicycle leans against the stop sign near the carrot."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "hot dog"
+        ],
+        "sentence": "a bicycle is parked by a stop sign near a hot dog stand."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "pizza"
+        ],
+        "sentence": "a bicycle is leaning against a stop sign near a pizza."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "donut"
+        ],
+        "sentence": "a bicycle is parked by a stop sign near a donut."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "cake"
+        ],
+        "sentence": "a bicycle leans against a stop sign near a cake."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "chair"
+        ],
+        "sentence": "a bicycle leans against a stop sign next to a chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "couch"
+        ],
+        "sentence": "the bicycle is leaning against the stop sign, near the couch."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "potted plant"
+        ],
+        "sentence": "the bicycle leans against the stop sign near the potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "bed"
+        ],
+        "sentence": "the bicycle is leaning against the stop sign beside the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "dining table"
+        ],
+        "sentence": "the bicycle is leaned against the stop sign beside the dining table."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "toilet"
+        ],
+        "sentence": "a bicycle leans against a stop sign near a toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "TV"
+        ],
+        "sentence": "the bicycle is near the stop sign facing the tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "laptop"
+        ],
+        "sentence": "a bicycle is chained to a stop sign beside a laptop."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "mouse"
+        ],
+        "sentence": "the mouse scurried past the bicycle toward the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "remote"
+        ],
+        "sentence": "the remote controls the bicycle at the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "keyboard"
+        ],
+        "sentence": "the bicycle leaned against the stop sign near the keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "cell phone"
+        ],
+        "sentence": "the cell phone is on the bicycle by the stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "microwave"
+        ],
+        "sentence": "a bicycle is near a stop sign beside a microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "oven"
+        ],
+        "sentence": "the bicycle is near the stop sign by the oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "toaster"
+        ],
+        "sentence": "a bicycle is chained to a stop sign near a toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "sink"
+        ],
+        "sentence": "the bicycle is propped against the stop sign near the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle is leaned against the stop sign next to the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "book"
+        ],
+        "sentence": "a bicycle leans against a stop sign, holding a book."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "clock"
+        ],
+        "sentence": "a bicycle leans against a stop sign under a clock."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "vase"
+        ],
+        "sentence": "the bicycle leaned against the stop sign near the vase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "scissors"
+        ],
+        "sentence": "the bicycle is near the stop sign with scissors on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "teddy bear"
+        ],
+        "sentence": "a teddy bear is riding a bicycle towards a stop sign."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "hair drier"
+        ],
+        "sentence": "a bicycle leans against the stop sign, drying its chains with a hair drier."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "stop sign",
+            "toothbrush"
+        ],
+        "sentence": "a bicycle leans against a stop sign beside a toothbrush."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "bench"
+        ],
+        "sentence": "the bicycle is chained to the parking meter beside the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "bird"
+        ],
+        "sentence": "a bird perches on a bicycle by a parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "cat"
+        ],
+        "sentence": "the cat sits on the bicycle near the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "dog"
+        ],
+        "sentence": "a dog is tied to a bicycle near the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "horse"
+        ],
+        "sentence": "a bicycle is chained to a parking meter near a horse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "sheep"
+        ],
+        "sentence": "a sheep is tied to a bicycle near a parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "cow"
+        ],
+        "sentence": "a cow is tied to a bicycle near a parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "elephant"
+        ],
+        "sentence": "the bicycle leaned against the parking meter near the elephant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "bear"
+        ],
+        "sentence": "a bear is riding a bicycle past a parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "zebra"
+        ],
+        "sentence": "a zebra is tied to a parking meter next to a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "giraffe"
+        ],
+        "sentence": "the giraffe rides the bicycle past the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "backpack"
+        ],
+        "sentence": "the bicycle with a backpack is locked to the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "umbrella"
+        ],
+        "sentence": "a bicycle with an umbrella leans against a parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "handbag"
+        ],
+        "sentence": "the bicycle is locked to the parking meter with a handbag on its handle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "suitcase"
+        ],
+        "sentence": "a bicycle with a suitcase leans against a parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "frisbee"
+        ],
+        "sentence": "a frisbee rests on the bicycle parked next to the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "skis"
+        ],
+        "sentence": "the bicycle is chained to the parking meter beside the skis."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "snowboard"
+        ],
+        "sentence": "a bicycle leans against a parking meter next to a snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "sports ball"
+        ],
+        "sentence": "a bicycle leans against a parking meter near a sports ball."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "kite"
+        ],
+        "sentence": "a bicycle leans against a parking meter, tangled with a kite."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "baseball bat"
+        ],
+        "sentence": "the bicycle, leaning against the parking meter, has a baseball bat strapped to its frame."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "baseball glove"
+        ],
+        "sentence": "a bicycle leans against a parking meter, with a baseball glove hanging from its handlebars."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "skateboard"
+        ],
+        "sentence": "the bicycle and the skateboard are chained to the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "surfboard"
+        ],
+        "sentence": "a bicycle with a surfboard is leaning against a parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "tennis racket"
+        ],
+        "sentence": "the bicycle is chained to the parking meter with a tennis racket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "bottle"
+        ],
+        "sentence": "a bottle rests on the bicycle parked next to the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "wine glass"
+        ],
+        "sentence": "the bicycle leaned against the parking meter, with a wine glass balanced on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "cup"
+        ],
+        "sentence": "a bicycle leans against a parking meter with a cup on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "fork"
+        ],
+        "sentence": "a bicycle leans against a parking meter with a fork tangled in its spokes."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "knife"
+        ],
+        "sentence": "a bicycle is locked to a parking meter with a knife."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "spoon"
+        ],
+        "sentence": "a bicycle leans against a parking meter with a spoon on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "bowl"
+        ],
+        "sentence": "the bicycle is chained to the parking meter beside the bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "banana"
+        ],
+        "sentence": "the banana is on the bicycle by the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "apple"
+        ],
+        "sentence": "the bicycle is chained to the parking meter with an apple in its basket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "sandwich"
+        ],
+        "sentence": "the bicycle is locked to the parking meter beside the sandwich."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "orange"
+        ],
+        "sentence": "the bicycle is leaning against the parking meter, near the orange."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "broccoli"
+        ],
+        "sentence": "the bicycle is leaned against the parking meter near the broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "carrot"
+        ],
+        "sentence": "a bicycle with a carrot is chained to a parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "hot dog"
+        ],
+        "sentence": "the bicycle is chained to the parking meter near the hot dog stand."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "pizza"
+        ],
+        "sentence": "a bicycle leans against a parking meter with a pizza balanced on its seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "donut"
+        ],
+        "sentence": "a bicycle is chained to a parking meter with a donut on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "cake"
+        ],
+        "sentence": "a bicycle leans against a parking meter with a cake balanced on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "chair"
+        ],
+        "sentence": "a bicycle is leaning against a parking meter next to a chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "couch"
+        ],
+        "sentence": "the bicycle is leaning against the parking meter near the couch."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "potted plant"
+        ],
+        "sentence": "a bicycle leans against a parking meter beside a potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "bed"
+        ],
+        "sentence": "the bicycle is leaning against the parking meter next to the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "dining table"
+        ],
+        "sentence": "a bicycle leans against a parking meter near the dining table."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "toilet"
+        ],
+        "sentence": "the bicycle is chained to the parking meter near the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "TV"
+        ],
+        "sentence": "a bicycle is chained to a parking meter in front of a tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "laptop"
+        ],
+        "sentence": "the bicycle is chained to the parking meter with a laptop in its basket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "mouse"
+        ],
+        "sentence": "a mouse scurries around a bicycle chained to a parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "remote"
+        ],
+        "sentence": "a bicycle is locked to a parking meter with a remote."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "keyboard"
+        ],
+        "sentence": "the bicycle leaned against the parking meter near the keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "cell phone"
+        ],
+        "sentence": "the bicycle is chained to the parking meter, beside which lies a cell phone."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "microwave"
+        ],
+        "sentence": "the bicycle is chained to the parking meter beside the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "oven"
+        ],
+        "sentence": "the bicycle is chained to the parking meter beside the oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "toaster"
+        ],
+        "sentence": "a bicycle is chained to a parking meter near a toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "sink"
+        ],
+        "sentence": "the bicycle is chained to the parking meter near the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle is chained to the parking meter beside the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "book"
+        ],
+        "sentence": "the book is on the bicycle by the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "clock"
+        ],
+        "sentence": "the bicycle by the parking meter has a clock attached."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "vase"
+        ],
+        "sentence": "the bicycle leaned against the parking meter near a vase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "scissors"
+        ],
+        "sentence": "the scissors are on the bicycle by the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "teddy bear"
+        ],
+        "sentence": "the teddy bear is sitting on the bicycle near the parking meter."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "hair drier"
+        ],
+        "sentence": "a bicycle is chained to a parking meter with a hair drier hanging from the handlebars."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "parking meter",
+            "toothbrush"
+        ],
+        "sentence": "a bicycle leans against a parking meter with a toothbrush tucked into its frame."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "bird"
+        ],
+        "sentence": "a bird perches on a bicycle by the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "cat"
+        ],
+        "sentence": "the cat is sitting on the bench next to the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "dog"
+        ],
+        "sentence": "the dog is sitting next to the bicycle by the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "horse"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the horse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "sheep"
+        ],
+        "sentence": "a sheep is resting beside a bicycle near the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "cow"
+        ],
+        "sentence": "a cow is tied to a bicycle near a bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "elephant"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the elephant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "bear"
+        ],
+        "sentence": "the bear sits beside the bicycle near the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "zebra"
+        ],
+        "sentence": "a bicycle is leaning against a bench near a zebra."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "giraffe"
+        ],
+        "sentence": "a giraffe is standing beside a bench with a bicycle leaning against it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "backpack"
+        ],
+        "sentence": "a bicycle with a backpack leans against the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "umbrella"
+        ],
+        "sentence": "a bicycle is leaning against a bench under an umbrella."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "handbag"
+        ],
+        "sentence": "a handbag rests on a bench next to a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "suitcase"
+        ],
+        "sentence": "a suitcase rests on the bench beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "frisbee"
+        ],
+        "sentence": "the bicycle is leaning against the bench with a frisbee on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "skis"
+        ],
+        "sentence": "the bicycle rests against the bench near the skis."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "snowboard"
+        ],
+        "sentence": "the bicycle leans against the bench, beside the snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "sports ball"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the sports ball."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "kite"
+        ],
+        "sentence": "the bicycle is leaning against the bench, near where the kite is flying."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "baseball bat"
+        ],
+        "sentence": "the bicycle is leaning against the bench, near the baseball bat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "baseball glove"
+        ],
+        "sentence": "a bicycle leans against a bench with a baseball glove on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "skateboard"
+        ],
+        "sentence": "the bicycle and the skateboard are leaning against the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "surfboard"
+        ],
+        "sentence": "the bicycle leans against the bench near the surfboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "tennis racket"
+        ],
+        "sentence": "the bicycle leans against the bench with a tennis racket on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "bottle"
+        ],
+        "sentence": "the bicycle is leaning against the bench with a bottle on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "wine glass"
+        ],
+        "sentence": "a bicycle leans against the bench holding a wine glass."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "cup"
+        ],
+        "sentence": "the bicycle is leaning against the bench with a cup on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "fork"
+        ],
+        "sentence": "the bicycle leans against the bench with a fork on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "knife"
+        ],
+        "sentence": "a bicycle is leaning against a bench with a knife on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "spoon"
+        ],
+        "sentence": "the bicycle leans against the bench with a spoon on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "bowl"
+        ],
+        "sentence": "the bicycle is beside the bench, holding a bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "banana"
+        ],
+        "sentence": "a bicycle with a banana is parked next to the bench."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "apple"
+        ],
+        "sentence": "the bicycle leans against the bench near the apple."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "sandwich"
+        ],
+        "sentence": "the bicycle is leaning against the bench with a sandwich on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "orange"
+        ],
+        "sentence": "the bicycle is leaning against the bench with an orange on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "broccoli"
+        ],
+        "sentence": "a bicycle is leaning against the bench near the broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "carrot"
+        ],
+        "sentence": "the bicycle leans against the bench with a carrot on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "hot dog"
+        ],
+        "sentence": "a bicycle is leaning against a bench with a hot dog on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "pizza"
+        ],
+        "sentence": "a bicycle is leaning against a bench with a pizza on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "donut"
+        ],
+        "sentence": "a bicycle is leaning against a bench with a donut on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "cake"
+        ],
+        "sentence": "the bicycle is parked beside the bench with a cake."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "chair"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "couch"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the couch."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "potted plant"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "bed"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "dining table"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the dining table."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "toilet"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "TV"
+        ],
+        "sentence": "the bicycle is leaning against the bench in front of the tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "laptop"
+        ],
+        "sentence": "the bicycle is leaning against the bench with a laptop on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "mouse"
+        ],
+        "sentence": "a bicycle is leaning against a bench where a mouse scurries."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "remote"
+        ],
+        "sentence": "the bicycle is leaning against the bench with a remote on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "keyboard"
+        ],
+        "sentence": "the bicycle is beside the bench with a keyboard on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "cell phone"
+        ],
+        "sentence": "the bicycle leaned against the bench, near the cell phone."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "microwave"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "oven"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "toaster"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "sink"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "refrigerator"
+        ],
+        "sentence": "the bicycle is leaning against the bench near the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "book"
+        ],
+        "sentence": "the bicycle leans against the bench with a book on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "clock"
+        ],
+        "sentence": "the bicycle is leaning against the bench under the clock."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "vase"
+        ],
+        "sentence": "a bicycle is leaning against a bench with a vase on it."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "scissors"
+        ],
+        "sentence": "the bicycle is leaning against the bench, near the scissors."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "teddy bear"
+        ],
+        "sentence": "the teddy bear is sitting on the bench beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "hair drier"
+        ],
+        "sentence": "the bicycle is propped against the bench with a hair dryer on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bench",
+            "toothbrush"
+        ],
+        "sentence": "the bicycle leaned against the bench with a toothbrush on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "cat"
+        ],
+        "sentence": "a cat watches a bird from the seat of a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "dog"
+        ],
+        "sentence": "the bird perched on the bicycle as the dog watched."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "horse"
+        ],
+        "sentence": "a bird perched on a bicycle next to a horse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "sheep"
+        ],
+        "sentence": "a bird perched on a bicycle near a sheep."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "cow"
+        ],
+        "sentence": "a bird perches on a bicycle next to a cow."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "elephant"
+        ],
+        "sentence": "a bird perches on a bicycle next to an elephant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "bear"
+        ],
+        "sentence": "a bird perched on a bicycle beside a bear."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "zebra"
+        ],
+        "sentence": "a bird perched on a bicycle passes a zebra."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "giraffe"
+        ],
+        "sentence": "a bicycle leans against a giraffe watching a bird."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "backpack"
+        ],
+        "sentence": "a bird is perched on a bicycle with a backpack."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "umbrella"
+        ],
+        "sentence": "a bird perches on a bicycle under an umbrella."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "handbag"
+        ],
+        "sentence": "a bird perched on a bicycle near a handbag."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "suitcase"
+        ],
+        "sentence": "a bird perched on a bicycle holds a suitcase in its beak."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "frisbee"
+        ],
+        "sentence": "a bird landed on a bicycle holding a frisbee."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "skis"
+        ],
+        "sentence": "a bird perches on a bicycle next to skis."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "snowboard"
+        ],
+        "sentence": "a bird perches on a bicycle next to a snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "sports ball"
+        ],
+        "sentence": "a bird perched on a bicycle holds a sports ball."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "kite"
+        ],
+        "sentence": "a bird perched on a bicycle holds a kite."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "baseball bat"
+        ],
+        "sentence": "a bird perched on a bicycle holds a baseball bat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "baseball glove"
+        ],
+        "sentence": "a bird perches on a bicycle next to a baseball glove."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "skateboard"
+        ],
+        "sentence": "a bird perched on a bicycle watches a skateboard glide by."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "surfboard"
+        ],
+        "sentence": "a bird perched on a bicycle near the surfboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "tennis racket"
+        ],
+        "sentence": "a bird perched on a bicycle holds a tennis racket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "bottle"
+        ],
+        "sentence": "a bird perched on a bicycle holds a bottle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "wine glass"
+        ],
+        "sentence": "a bird perches on a bicycle with a wine glass balanced on the seat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "cup"
+        ],
+        "sentence": "a bird perches on a bicycle holding a cup."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "fork"
+        ],
+        "sentence": "a bird perches on a bicycle with a fork in its beak."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "knife"
+        ],
+        "sentence": "a bird perched on a bicycle holds a knife."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "spoon"
+        ],
+        "sentence": "a bird perches on a bicycle with a spoon in its beak."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "bowl"
+        ],
+        "sentence": "a bird perches on a bicycle beside a bowl."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "banana"
+        ],
+        "sentence": "a bird perched on a bicycle pecks at a banana."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "apple"
+        ],
+        "sentence": "a bird perched on a bicycle pecks at an apple."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "sandwich"
+        ],
+        "sentence": "a bird lands on a bicycle with a sandwich in its beak."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "orange"
+        ],
+        "sentence": "the bird perched on the bicycle holds an orange."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "broccoli"
+        ],
+        "sentence": "a bird perches on a bicycle near broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "carrot"
+        ],
+        "sentence": "a bird perches on a bicycle, holding a carrot."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "hot dog"
+        ],
+        "sentence": "a bird perches on a bicycle with a hot dog."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "pizza"
+        ],
+        "sentence": "a bird perched on a bicycle holds a slice of pizza."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "donut"
+        ],
+        "sentence": "a bird perched on a bicycle holds a donut."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "cake"
+        ],
+        "sentence": "a bird perched on a bicycle holds a cake."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "chair"
+        ],
+        "sentence": "a bird is perched on a bicycle beside a chair."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "couch"
+        ],
+        "sentence": "a bird is perched on a bicycle beside the couch."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "potted plant"
+        ],
+        "sentence": "a bird perches on a bicycle beside a potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "bed"
+        ],
+        "sentence": "a bird perches on a bicycle beside the bed."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "dining table"
+        ],
+        "sentence": "a bird perches on a bicycle near the dining table."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "toilet"
+        ],
+        "sentence": "a bird perched on a bicycle beside a toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "TV"
+        ],
+        "sentence": "a bird perched on a bicycle watches tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "laptop"
+        ],
+        "sentence": "a bird perched on a bicycle is next to a laptop."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "mouse"
+        ],
+        "sentence": "a bird perched on a bicycle watches a mouse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "remote"
+        ],
+        "sentence": "the bird perched on the bicycle holds a remote."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "keyboard"
+        ],
+        "sentence": "a bird perches on a bicycle next to a keyboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "cell phone"
+        ],
+        "sentence": "a bird perches on a bicycle with a cell phone."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "microwave"
+        ],
+        "sentence": "a bird perches on a bicycle beside the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "oven"
+        ],
+        "sentence": "a bird perches on a bicycle next to an oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "toaster"
+        ],
+        "sentence": "a bird perches on a bicycle near a toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "sink"
+        ],
+        "sentence": "a bird perches on a bicycle beside the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "refrigerator"
+        ],
+        "sentence": "a bird perches on a bicycle near the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "book"
+        ],
+        "sentence": "a bird perched on a bicycle reads a book."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "clock"
+        ],
+        "sentence": "a bird perches on a bicycle near the clock."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "vase"
+        ],
+        "sentence": "a bird perches on a bicycle beside a vase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "scissors"
+        ],
+        "sentence": "a bird perches on a bicycle near the scissors."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "teddy bear"
+        ],
+        "sentence": "a bird perched on a bicycle watches a teddy bear."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "hair drier"
+        ],
+        "sentence": "a bird perched on a bicycle is dried by a hair drier."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "bird",
+            "toothbrush"
+        ],
+        "sentence": "a bird perches on a bicycle holding a toothbrush."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "dog"
+        ],
+        "sentence": "the cat sits on the bicycle, watched by the dog."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "horse"
+        ],
+        "sentence": "the cat is sitting on the bicycle next to the horse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "sheep"
+        ],
+        "sentence": "a cat sits on a bicycle next to a sheep."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "cow"
+        ],
+        "sentence": "the cat sits on the bicycle near the cow."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "elephant"
+        ],
+        "sentence": "the cat sits on the bicycle beside the elephant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "bear"
+        ],
+        "sentence": "the cat on the bicycle dodged the bear."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "zebra"
+        ],
+        "sentence": "a cat on a bicycle races a zebra."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "giraffe"
+        ],
+        "sentence": "the cat on the bicycle watched the giraffe."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "backpack"
+        ],
+        "sentence": "the cat in the backpack rides the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "umbrella"
+        ],
+        "sentence": "the cat under the umbrella sits near the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "handbag"
+        ],
+        "sentence": "a cat sits on a bicycle next to a handbag."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "suitcase"
+        ],
+        "sentence": "a cat is sitting on a bicycle next to a suitcase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "frisbee"
+        ],
+        "sentence": "the cat on the bicycle catches the frisbee."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "skis"
+        ],
+        "sentence": "the cat on the bicycle watches the skis leaning against the wall."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "snowboard"
+        ],
+        "sentence": "the cat sits on the bicycle next to the snowboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "sports ball"
+        ],
+        "sentence": "the cat sits on the bicycle, batting at the sports ball."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "kite"
+        ],
+        "sentence": "the cat on the bicycle holds the kite."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "baseball bat"
+        ],
+        "sentence": "a cat is sitting on a bicycle holding a baseball bat."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "baseball glove"
+        ],
+        "sentence": "the cat sits on the bicycle holding a baseball glove."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "skateboard"
+        ],
+        "sentence": "the cat on the skateboard zooms past the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "surfboard"
+        ],
+        "sentence": "the cat on the bicycle holds a surfboard."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "tennis racket"
+        ],
+        "sentence": "the cat on the bicycle swipes at the tennis racket."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "bottle"
+        ],
+        "sentence": "the cat on the bicycle knocked over the bottle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "wine glass"
+        ],
+        "sentence": "the cat on the bicycle knocked over the wine glass."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "cup"
+        ],
+        "sentence": "the cat on the bicycle knocked over the cup."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "fork"
+        ],
+        "sentence": "the cat on the bicycle holds a fork."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "knife"
+        ],
+        "sentence": "the cat sits on the bicycle with a knife."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "spoon"
+        ],
+        "sentence": "the cat on the bicycle holds a spoon."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "bowl"
+        ],
+        "sentence": "the cat in the bowl is next to the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "banana"
+        ],
+        "sentence": "the cat on the bicycle swats at the banana."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "apple"
+        ],
+        "sentence": "the cat on the bicycle swats at the apple."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "sandwich"
+        ],
+        "sentence": "the cat on the bicycle stole the sandwich."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "orange"
+        ],
+        "sentence": "the cat, perched on the bicycle, bats at an orange."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "broccoli"
+        ],
+        "sentence": "the cat on the bicycle swerves around the broccoli."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "carrot"
+        ],
+        "sentence": "the cat on the bicycle swerves to avoid the carrot."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "hot dog"
+        ],
+        "sentence": "a cat rides a bicycle with a hot dog."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "pizza"
+        ],
+        "sentence": "the cat on the bicycle has a pizza."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "donut"
+        ],
+        "sentence": "the cat on the bicycle eyes the donut."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "cake"
+        ],
+        "sentence": "the cat on the bicycle sniffed the cake."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "chair"
+        ],
+        "sentence": "the cat is sitting on the chair beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "couch"
+        ],
+        "sentence": "the cat is sitting on the couch beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "potted plant"
+        ],
+        "sentence": "a cat is sitting on a bicycle beside a potted plant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "bed"
+        ],
+        "sentence": "the cat is on the bed beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "dining table"
+        ],
+        "sentence": "the cat sits under the bicycle next to the dining table."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "toilet"
+        ],
+        "sentence": "the cat rides the bicycle to the toilet."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "TV"
+        ],
+        "sentence": "the bicycle with the cat is near the tv."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "laptop"
+        ],
+        "sentence": "the cat sits on the laptop next to the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "mouse"
+        ],
+        "sentence": "the cat on the bicycle chases the mouse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "remote"
+        ],
+        "sentence": "a cat is sitting on a bicycle, playing with a remote."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "keyboard"
+        ],
+        "sentence": "the cat sits on the keyboard beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "cell phone"
+        ],
+        "sentence": "the cat on the bicycle watches the cell phone."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "microwave"
+        ],
+        "sentence": "the cat on the bicycle is next to the microwave."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "oven"
+        ],
+        "sentence": "a cat is sitting on a bicycle next to the oven."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "toaster"
+        ],
+        "sentence": "the cat on the bicycle watches the toaster."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "sink"
+        ],
+        "sentence": "the cat is on the bicycle next to the sink."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "refrigerator"
+        ],
+        "sentence": "the cat on the bicycle reached the refrigerator."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "book"
+        ],
+        "sentence": "the cat on the bicycle reads a book."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "clock"
+        ],
+        "sentence": "the cat sits on the bicycle, watching the clock."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "vase"
+        ],
+        "sentence": "the cat, sitting beside the bicycle, knocked over the vase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "scissors"
+        ],
+        "sentence": "the cat on the bicycle dodges the scissors."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "teddy bear"
+        ],
+        "sentence": "the cat on the bicycle clutches the teddy bear."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "hair drier"
+        ],
+        "sentence": "the cat, perched on the bicycle, is drying off with the hair drier."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "cat",
+            "toothbrush"
+        ],
+        "sentence": "a cat on a bicycle holds a toothbrush."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "horse"
+        ],
+        "sentence": "the dog rides the bicycle beside the horse."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "sheep"
+        ],
+        "sentence": "the dog herds the sheep beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "cow"
+        ],
+        "sentence": "the dog rides the bicycle past the cow."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "elephant"
+        ],
+        "sentence": "a dog rides a bicycle beside an elephant."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "bear"
+        ],
+        "sentence": "the dog rides the bicycle toward the bear."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "zebra"
+        ],
+        "sentence": "a dog on a bicycle races a zebra."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "giraffe"
+        ],
+        "sentence": "the dog beside the bicycle watches the giraffe."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "backpack"
+        ],
+        "sentence": "the dog with a backpack is riding the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "umbrella"
+        ],
+        "sentence": "a dog with an umbrella rides a bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "handbag"
+        ],
+        "sentence": "the dog in the handbag rides on the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "suitcase"
+        ],
+        "sentence": "a dog is sitting beside a bicycle with a suitcase."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "frisbee"
+        ],
+        "sentence": "the dog with the frisbee ran past the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "skis"
+        ],
+        "sentence": "a bicycle leaning against skis with a dog beside them."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "snowboard"
+        ],
+        "sentence": "the dog on the snowboard follows the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "sports ball"
+        ],
+        "sentence": "the dog, with a sports ball, jumped over the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "kite"
+        ],
+        "sentence": "the dog with the kite follows the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "baseball bat"
+        ],
+        "sentence": "the dog with the baseball bat is beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "baseball glove"
+        ],
+        "sentence": "the dog with the baseball glove is beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "skateboard"
+        ],
+        "sentence": "the dog rides the skateboard beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "surfboard"
+        ],
+        "sentence": "the dog on the surfboard passes the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "tennis racket"
+        ],
+        "sentence": "the dog with the tennis racket rides the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "bottle"
+        ],
+        "sentence": "a dog on a bicycle holds a bottle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "wine glass"
+        ],
+        "sentence": "the dog knocked over the wine glass beside the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "cup"
+        ],
+        "sentence": "the dog beside the bicycle drinks from the cup."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "fork"
+        ],
+        "sentence": "the dog beside the bicycle holds a fork."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "knife"
+        ],
+        "sentence": "the dog, with a knife attached, rides the bicycle."
+    },
+    {
+        "pair": [
+            "bicycle",
+            "dog",
+            "spoon"
+        ],
+        "sentence": "the dog on the bicycle holds a spoon."
+    }
+]
