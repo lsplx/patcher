@@ -129,9 +129,7 @@ class DiffusionModelWrapper:
         torch.use_deterministic_algorithms(True)
 
         # initialize diffusion model
-        #/newdata/czy/stable-diffusion-v1-5
-        #/data/czy/stablediffusion-main/model/stable-diffusion-2-1
-        model_id = "/data/czy/stablediffusion-main/model/stable-diffusion-2-1"
+        model_id = "/model/stable-diffusion-2-1"
         self.pipe = StableDiffusionPipeline.from_pretrained(model_id)
         self.pipe.scheduler = DPMSolverMultistepScheduler.from_config(self.pipe.scheduler.config)
         self.pipe = self.pipe.to(self.device)
@@ -144,38 +142,6 @@ class DiffusionModelWrapper:
         self.hooker = HookRecorder(layers_to_hook, self.pipe.text_encoder, 'raw')
 
     def generate_image(self, prompts, image_id, index,highlight_keywords, attention_multiplier):
-        # highlight_keywords = [["lifesaver"], ["on"]]
-        # attention_multiplier = [[1.5], [0.8]]
-#         focus_more = re.finditer("\[.+?\]", prompts)
-#         focus_less = re.finditer("\<.+?\>", prompts)
-#         for span in focus_more:
-#             keyword_s, keyword_e = span.span()
-#             keyword = prompts[keyword_s+1:keyword_e-1]
-#             if highlight_keywords[0] is None:
-#                 highlight_keywords[0] = [keyword]
-#             else:
-#                 highlight_keywords[0].append(keyword)
-#         for span in focus_less:
-#             keyword_s, keyword_e = span.span()
-#             keyword = prompts[keyword_s+1:keyword_e-1]
-#             if highlight_keywords[1] is None:
-#                 highlight_keywords[1] = [keyword]
-#             else:
-#                 highlight_keywords[1] .append(keyword)
-#         input_prompts = prompts
-#         if highlight_keywords[0]:
-#             for keyword in highlight_keywords[0]:
-#                 input_prompts = input_prompts.replace('['+keyword+']', keyword)
-#         if highlight_keywords[1]:
-#             for keyword in highlight_keywords[1]:
-#                 input_prompts = input_prompts.replace('<'+keyword+'>', keyword)
-#         prompts = input_prompts
-        # if len(attention[0][0]) > 0:
-        #     highlight_keywords[0] = attention[0][0]
-        #     attention_multiplier[0] = [2 if v == 2 else 1.5 for v in attention[0][1]]
-        # if len(attention[1][0]) > 0:
-        #     highlight_keywords[1] = attention[1][0]
-        #     attention_multiplier[1] = [0.5 if v == -2 else 0.8 for v in attention[1][1]]
         print(prompts)
         # with torch.cuda.amp.autocast(dtype=torch.float16), torch.no_grad():
         # with trace(self.pipe, prompt=prompts, highlight_key_words=highlight_keywords, highlight_amp_mags=attention_multiplier) as tc:
@@ -187,16 +153,9 @@ class DiffusionModelWrapper:
                 out = self.pipe(prompts,num_inference_steps=50)
             heat_map_global, attention = tc.compute_global_heat_map()
             #test
-            # 假设 heat_map 是一个 [77, 96, 96] 形状的 PyTorch 张量
-            # 计算每个 [96, 96] 矩阵的平均值
             means = attention.mean(dim=(1, 2))  # 在第二和第三维度上计算平均值
 
-            # 将结果转换为 Python 列表
             all_attention_list = means.tolist()
-
-            # 打印结果
-            # print(mean_list)
-
             activations = {'encoder': []}
             for k, v in self.hooker.get_result().items():
                 activations['encoder'].append(v[0].detach().cpu().numpy())
@@ -211,7 +170,6 @@ class DiffusionModelWrapper:
             n_input_tokens = tokenizer_output['attention_mask'].sum().item()
             token_ids = tokenizer_output['input_ids'][0][:n_input_tokens]
             tokens = [[v.replace('</w>', '') for v in self.pipe.tokenizer.convert_ids_to_tokens(token_ids)]]
-
             old_tokens = [[v for v in self.pipe.tokenizer.convert_ids_to_tokens(token_ids)]]
             old_token_ids = token_ids.unsqueeze(0)
             old_activations = activations['encoder'].transpose(3, 0, 1, 2)
@@ -243,7 +201,6 @@ class DiffusionModelWrapper:
                     token_index = sub_token_index
             activations['encoder'] = np.array(activations['encoder']).transpose(1, 2, 3, 0)
             n_input_tokens = len(tokens[0])
-
             config = {'tokenizer_config': {'token_prefix': '', 'partial_token_prefix': ''}}
             nmf = NMF(activations=activations, n_components=10, n_input_tokens=n_input_tokens, token_ids=token_ids,
                     tokens=tokens, _path=os.path.dirname(ecco.__file__), config=config)
@@ -251,8 +208,6 @@ class DiffusionModelWrapper:
             highlighted_images = []
             os.makedirs('./tmp/', exist_ok=True)
             token_importance = {-1: 0, -2: float('inf'), -3: 0}
-            #token attention linking
-            # new_token_dic = OrderedDict() 
             new_token_list = []
             for i in range(len(tokens[0])):
                 token = tokens[0][i]
@@ -270,7 +225,6 @@ class DiffusionModelWrapper:
                     token_importance[-3] = float(np.sum(heat_map_array))
                 if float(np.sum(heat_map_array)) < token_importance[-2]:
                     token_importance[-2] = float(np.sum(heat_map_array))
-
                 heat_map_array = cv2.resize(heat_map_array, (768, 768))
                 image = np.array(out.images[0])
                 heat_map_array[heat_map_array >= heat_map_mean] = 1
@@ -282,21 +236,11 @@ class DiffusionModelWrapper:
                 highlight_image = Image.fromarray(rgba_image, mode='RGBA')
                 highlight_image.save('./tmp/token%d.png' % i)
                 highlighted_images.append('./tmp/token%d.png' % i)
-            # out.images[0].save("/data/czy/flickr30k/COCO/MSCOCO_connectpair_modifierGPT/" + str(index) + ".png")
             image = out.images[0]
-
-            # 创建一个字节流对象
             buffered = io.BytesIO()
-
-            # 将图像保存到字节流中，格式为PNG
             image.save(buffered, format="PNG")
-
-            # 获取字节流的值
             img_str = buffered.getvalue()
-
-            # 将字节流编码为 Base64 字符串
             img_base64 = base64.b64encode(img_str)
-            # 将Base64字节数据解码为UTF-8字符串以便序列化
             img_base64_string = img_base64.decode('utf-8')
             # out.images[0].save('./tmp/img.png')
             return {'token_explanations': explanations,
@@ -304,73 +248,9 @@ class DiffusionModelWrapper:
                     'token_importance': token_importance,
                     "token_attention_linking": new_token_list,
                     "all_attention_list" :all_attention_list,
-                    'generated_image': "/data/czy/flickr30k/COCO/MSCOCO_connectpair_modifierGPT/" + str(index) + ".png",
+                    'generated_image': "XXX/" + str(index) + ".png",
                     "img_base64": img_base64_string}
 
-            # return {'token_explanations': explanations,
-            #         'token_image_highlight': highlighted_images,
-            #         'focused_tokens': tc.user_hightlight_key_words,
-            #         'token_importance': token_importance,
-            #         'generated_image': './tmp/img.png'}
-
-
-# class InpaintingDiffusionModelWrapper:
-#     def __init__(self, device="cuda:0", random_seed=2023):
-#         self.device = device
-#         self.random_seed = random_seed
-
-#         # control random seed
-#         torch.manual_seed(self.random_seed)
-#         random.seed(self.random_seed)
-#         np.random.seed(self.random_seed)
-#         torch.use_deterministic_algorithms(True)
-
-#         # initialize diffusion model
-#         model_id = "stabilityai/stable-diffusion-2-inpainting"
-#         self.pipe = StableDiffusionInpaintPipeline.from_pretrained(model_id, torch_dtype=torch.float16)
-#         self.pipe = self.pipe.to(self.device)
-
-#     def inpaint(self, mask, version_old, version_new, prompt=""):
-#         mask_str = re.search(r'base64,(.*)', mask).group(1)
-#         mask_code = base64.b64decode(mask_str)
-#         mask_img = Image.open(BytesIO(mask_code))
-#         original_img = Image.open('./tmp/ver_' + version_old + '.png')
-#         mask_array = np.array(mask_img)[...,:3] - np.array(original_img.resize(mask_img.size))
-#         mask_array[np.array(mask_img)[...,:3] != 0] = 255
-#         mask_array[mask_array != 255] = 0
-#         mask_array = 255 - mask_array
-#         mask_img_resized = Image.fromarray(mask_array).resize((512, 512))
-#         image = self.pipe(prompt=prompt, image=original_img.resize((512, 512)), mask_image=mask_img_resized).images[0]
-#         image = image.resize(original_img.size)
-#         image_file = './tmp/ver_' + version_new + '.png'
-#         image.save(image_file)
-#         return image_file
-
-
-# class PrompterModelWrapper:
-#     def __init__(self, device="cuda:1", random_seed=2023):
-#         self.device = device
-#         self.random_seed = random_seed
-
-#         # control random seed
-#         torch.manual_seed(self.random_seed)
-#         random.seed(self.random_seed)
-#         np.random.seed(self.random_seed)
-#         torch.use_deterministic_algorithms(True)
-
-#         self.prompter_model = AutoModelForCausalLM.from_pretrained("microsoft/Promptist").to(self.device)
-#         self.tokenizer = AutoTokenizer.from_pretrained("gpt2")
-#         self.tokenizer.pad_token = self.tokenizer.eos_token
-#         self.tokenizer.padding_side = "left"
-
-#     def generate(self, plain_text):
-#         input_ids = self.tokenizer(plain_text.strip()+" Rephrase:", return_tensors="pt").input_ids
-#         eos_id = self.tokenizer.eos_token_id
-#         outputs = self.prompter_model.generate(input_ids.to(self.device), do_sample=True, max_new_tokens=77, num_beams=8, num_return_sequences=8, eos_token_id=eos_id, pad_token_id=eos_id, length_penalty=-1.0)
-#         output_texts = self.tokenizer.batch_decode(outputs, skip_special_tokens=True)
-#         res = output_texts[0]
-#         res = res.replace(plain_text.strip() + " Rephrase:", "").strip()
-#         return res
 
 
 if __name__ == '__main__':
@@ -379,11 +259,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     custom_diffusion_model = DiffusionModelWrapper(random_seed=args.seed)
-    # inpainting_model = InpaintingDiffusionModelWrapper(random_seed=args.seed)
-    # prompter_model = PrompterModelWrapper(random_seed=args.seed)
     app = Flask("Penguin")
-    
-
     @app.route("/api/v1/predict", methods=['GET', 'POST'])
     @cross_origin()
     def get_prompts():
@@ -396,42 +272,9 @@ if __name__ == '__main__':
         highlight_keywords = data['highlight_keywords']
         attention_multiplier = data['attention_multiplier']
         explanations = custom_diffusion_model.generate_image(prompts,image_id,index,highlight_keywords,attention_multiplier)
-        # explanations = custom_diffusion_model.generate_image(prompts,image_id,index)
-        # shutil.copy(explanations['generated_image'], explanations['generated_image'].replace('img', 'ver_' + version))
         return explanations, 200
-
-    @app.route("/api/v1/images", methods=['GET', 'POST'])
-    @cross_origin()
-    def get_images():
-        img = request.args.get('file')
-        print(img)
-        return send_file(img, as_attachment=True)
-
-    # @app.route("/api/v1/inpaint", methods=['POST'])
-    # @cross_origin()
-    # def get_inpainting():
-    #     data = request.get_json()
-    #     mask = data['image']
-    #     version_old = str(data['version_old'])
-    #     version_new = str(data['version_new'])
-    #     prompt = data['prompt']
-    #     inpaint_img = inpainting_model.inpaint(mask, version_old, version_new, prompt)
-    #     return send_file(inpaint_img, as_attachment=True)
-
-    # @app.route("/api/v1/prompter", methods=['POST'])
-    # @cross_origin()
-    # def get_prompting():
-    #     data = request.get_json()
-    #     init_prompt = data['prompt']
-    #     return {'new_prompt': prompter_model.generate(init_prompt)}, 200
-
-
-    # CORS(app, origins=["http://localhost:3000"], resources=r'/api/*')
     cors = CORS(app, resorces={r'/d/*': {"origins": '*'}})
     api = Api(app)
     print("ok")
-    # server = pywsgi.WSGIServer(('0.0.0.0', 6000), app)
-    # server.serve_forever()
-    # api.add_resource(PredictServer, '/api/v1/predict')
     app.run(host='0.0.0.0', port=3000)
-    # print("done")
+
